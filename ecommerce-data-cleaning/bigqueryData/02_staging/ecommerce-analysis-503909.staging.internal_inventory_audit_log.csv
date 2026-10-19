@@ -1,0 +1,48 @@
+sku,product_name,category,retail_price,internal_stock,reorder_point,anomaly_description
+SKU-1015,Google Nest Hub 2nd Gen Pack of 5 - Lavender,Electronics,91.71,31,15,duplicate SKU record | duplicate product_name record
+SKU-1015,Google Nest Hub 2nd Gen Pack of 5 - Lavender,Electronics,33.58,31,15,duplicate SKU record | duplicate product_name record
+SKU-1108,Gym Duffel Bag 40L 400g,Sports,78.06,98,15,duplicate SKU record | duplicate product_name record
+SKU-1108,Gym Duffel Bag 40L 400g,Toys,78.06,98,15,duplicate SKU record | duplicate product_name record
+SKU-1301,OPI Nail Polish Performance,Beauty,8.66,0,15,duplicate SKU record | duplicate product_name record
+SKU-1301,OPI Nail Polish Performance,Beauty,15.96,0,15,duplicate SKU record | duplicate product_name record
+SKU-1213,Samsung 1TB Portable SSD Medium,Electronics,112.33,90,15,duplicate product_name record
+SKU-1388,Samsung 1TB Portable SSD Medium,Electronics,96.36,100,15,duplicate product_name record
+SKU-1442,Fleece Throw Blanket - Slate,Home,52.1,60,15,duplicate product_name record
+SKU-1252,Fleece Throw Blanket - Slate,Home,42.71,75,15,duplicate product_name record
+SKU-1238,Colander Stainless Steel 28cm,Kitchen,26.94,30,15,duplicate product_name record
+SKU-1498,Colander Stainless Steel 28cm,Kitchen,20.97,42,15,duplicate product_name record
+SKU-1221,Fitbit Charge 6 Digital,Electronics,137.29,58,15,duplicate product_name record
+SKU-1021,Fitbit Charge 6 Digital,Electronics,148.07,86,15,duplicate product_name record
+SKU-1233,Wool Beanie Hat 32cm,Clothing,16.04,10,15,duplicate product_name record
+SKU-1208,Wool Beanie Hat 32cm,Clothing,17.24,94,15,duplicate product_name record
+SKU-1278,Damascus Knife Set 3pcs 30cm,Kitchen,61.78,84,15,duplicate product_name record
+SKU-1078,Damascus Knife Set 3pcs 30cm,Kitchen,72.52,30,15,duplicate product_name record
+SKU-1023,Nintendo Switch OLED Small,Electronics,349.0,78,15,duplicate product_name record
+SKU-1423,Nintendo Switch OLED Small,Electronics,349.0,40,15,duplicate product_name record
+SKU-1288,Electric Kettle 1.7L 1L,Kitchen,42.57,33,15,duplicate product_name record
+SKU-1126,Kérastase Shampoo 250ml Premium,Beauty,-45.15,72,15,negative price
+SKU-1380,LEGO Classic Creative Bricks 200g - Blue,Toys,-35.45,65,15,negative price
+SKU-1072,Decorative Throw Pillow - Burgundy,Home,-8.91,33,15,negative price
+SKU-1058,Baby Einstein Activity Gym 400g,Toys,-38.14,77,15,negative price
+SKU-1216,Raspberry Pi 5 8GB Elite,,81.38,36,15,null category
+SKU-1142,Fisher-Price Rock-a-Stack - Black,,16.38,100,15,null category
+SKU-1053,Modern Table Lamp Pack of 5,,91.18,61,15,null category
+SKU-1389,Nerf Elite Disruptor Blaster Mini - Cream,,23.09,87,15,null category
+SKU-1110,Speed Jump Rope Set of 6 - Green,,15.83,57,15,null category
+SKU-1172,Ceramic Coffee Mug 400ml - Slate,Kitchen,18.98,15,,null reorder_point
+SKU-1174,The Four Agreements XL - Teal,Books,13.1,76,,null reorder_point
+SKU-1048,Denim Jacket Set of 4,Clothing,77.15,70,,null reorder_point
+SKU-1080,Ninja Professional Blender 2L - Rose,Kitchen,98.78,76,,null reorder_point
+SKU-1488,Electric Kettle 1.7L 1L,Kitchen,44.59,5,,null reorder_point | duplicate product_name record
+SKU-1223 ,Baby Einstein Activity Gym 32cm,Toys,42.06,36,15,space in SKU
+SKU-1315 ,Hiking Backpack 30L X-Large - Rose,Sports,59.11,22,15,space in SKU
+SKU-1018 ,Logitech C920 HD Webcam 750ml,Electronics,74.79,46,15,space in SKU
+SKU-1124 ,Playmobil Pirate Ship Elite - Charcoal,Toys,67.14,98,15,space in SKU
+SKU-1116 ,Boxing Gloves 12oz Compact,Sports,31.24,68,15,space in SKU
+SKU-1049 ,Electric Kettle 1.7L Home - Taupe,Kitchen,60.35,71,15,space in SKU
+SKU-1017 ,Arduino Uno R4 WiFi - Teal,Electronics,26.08,36,15,space in SKU
+SKU-1265 ,Oven Mitts Pair 200g - Ivory,Kitchen,15.63,24,15,space in SKU
+SKU-1328,Insulated Water Bottle 750ml Set of 6,Sports,0.0,41,15,zero price
+SKU-1141,Olaplex No. 3 Treatment Analog,Beauty,0.0,34,15,zero price
+SKU-1115,Velvet Cushion Cover X-Large - Coral,Home,0.0,43,15,zero price
+SKU-1013,The Great Gatsby - Paperback Pack of 5,Books,0.0,85,15,zero price

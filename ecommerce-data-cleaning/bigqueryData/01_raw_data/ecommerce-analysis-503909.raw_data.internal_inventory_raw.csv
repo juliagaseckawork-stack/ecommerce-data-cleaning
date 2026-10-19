@@ -1,0 +1,504 @@
+sku,product_name,category,internal_stock,retail_price,reorder_point
+SKU-1301,OPI Nail Polish Performance,Beauty,0,8.66,15
+SKU-1146,Bioderma Micellar Water 500ml Analog,Beauty,0,15.77,15
+SKU-1301,OPI Nail Polish Performance,Beauty,0,15.96,15
+SKU-1432,Cotton Athletic Socks 6-Pack - Black,Clothing,0,16.71,15
+SKU-1202,Shoe Storage Cabinet - Taupe,Home,0,90.19,15
+SKU-1474,Aromatherapy Diffuser XL - Taupe,Home,0,40.18,15
+SKU-1189,Nerf Elite Disruptor Blaster Smart - Green,Toys,0,20.21,15
+SKU-1394,Hot Wheels 20-Car Gift Pack Mini - Taupe,Toys,0,28.69,15
+SKU-1316,Sapiens: A Brief History of Humankind Signature,Books,1,17.5,15
+SKU-1365,Steve Jobs Biography Pack of 3 - Navy,Books,1,23.44,15
+SKU-1300,Pastry Brush Set 30cm - Coral,Kitchen,1,13.66,15
+SKU-1317,Pull-Up Bar Doorway - Black,Sports,1,51.28,15
+SKU-1368,The Hobbit - Illustrated Pack of 3,Books,2,28.5,15
+SKU-1024,Steam Deck OLED 512GB Analog - Ivory,Electronics,2,549.0,15
+SKU-1212,Canon EOS R50 Camera - Cream,Electronics,2,546.05,15
+SKU-1060,Bamboo Drawer Organizer Set of 6 - Navy,Home,2,21.72,15
+SKU-1495,Rice Cooker 1.8L One Size - Lavender,Kitchen,2,49.81,15
+SKU-1318,Balance Board Set of 2,Sports,2,43.01,15
+SKU-1035,Genuine Leather Belt 400g - Cream,Clothing,3,62.73,15
+SKU-1438,Running Sneakers X-Large,Clothing,3,76.58,15
+SKU-1040,Arduino Uno R4 WiFi Set of 2 - Charcoal,Electronics,3,24.98,15
+SKU-1382,Swim Goggles Anti-Fog - Teal,Sports,3,17.03,15
+SKU-1369,Pride and Prejudice Advanced - Coral,Books,4,10.6,15
+SKU-1041,Cargo Pants Classic,Clothing,4,46.36,15
+SKU-1313,Silk Blouse Set of 2,Clothing,4,70.1,15
+SKU-1404,Logitech MX Master 3S Mouse Premium - Lavender,Electronics,4,96.84,15
+SKU-1262,Blackout Curtains Pair - Black,Home,4,59.03,15
+SKU-1340,LEGO Classic Creative Bricks Set of 6 - Beige,Toys,4,34.0,15
+SKU-1327,Moroccanoil Conditioner - Teal,Beauty,5,32.05,15
+SKU-1298,Atomic Habits - Hardcover Set of 2,Books,5,22.61,15
+SKU-1434,Cashmere Scarf Essential - Teal,Clothing,5,43.69,15
+SKU-1130,Garmin Forerunner 265 Smartwatch 500ml - Burgundy,Electronics,5,437.44,15
+SKU-1256,Ceramic Decorative Vase Elite,Home,5,56.33,15
+SKU-1220,Espresso Cups Set of 4 Pack of 5 - Taupe,Kitchen,5,24.26,15
+SKU-1279,Bamboo Cutting Board Compact - Teal,Kitchen,5,28.68,15
+SKU-1488,Electric Kettle 1.7L 1L,Kitchen,5,44.59,
+SKU-1244,Gone Girl - Thriller Travel - Taupe,Books,6,15.8,15
+SKU-1098,Colander Stainless Steel 2L,Kitchen,6,24.74,15
+SKU-1137,CeraVe Hydrating Cleanser - Graphite,Beauty,7,15.73,15
+SKU-1159,Milk and Honey Poetry Collection Eco - Green,Books,7,15.67,15
+SKU-1133,Keychron K2 Mechanical Keyboard Set of 4,Electronics,7,124.91,15
+SKU-1209,Anker 65W USB-C Charger Standard - Burgundy,Electronics,7,40.72,15
+SKU-1425,Apple AirPods Pro 2 One Size - Rose,Electronics,7,249.0,15
+SKU-1473,Bamboo Bath Mat Set of 6,Home,7,34.4,15
+SKU-1180,LEGO Classic Creative Bricks Large - Gray,Toys,7,38.19,15
+SKU-1246,Swim Trunks Max,Clothing,8,34.03,15
+SKU-1323,Sports Watch Digital One Size,Sports,8,33.73,15
+SKU-1225,Apple AirPods Pro 2 Set of 6 - Blue,Electronics,9,249.0,15
+SKU-1343,Apple Lightning Cable 2m 400g,Electronics,9,19.7,15
+SKU-1468,LED Strip Lights 5m Set of 2,Home,9,19.4,15
+SKU-1166,Citrus Juicer Manual Pro,Kitchen,9,19.94,15
+SKU-1123,Sports Watch Digital 750ml,Sports,9,43.59,15
+SKU-1427,Melissa & Doug Wooden Train Set - Taupe,Toys,9,53.03,15
+SKU-1233,Wool Beanie Hat 32cm,Clothing,10,16.04,15
+SKU-1446,Swim Trunks Home,Clothing,10,32.86,15
+SKU-1145,Bose QuietComfort Earbuds II Set of 6 - White,Electronics,10,296.24,15
+SKU-1414,Amazon Echo Dot 5th Gen Analog - Rose,Electronics,10,54.49,15
+SKU-1290,Espresso Cups Set of 4 28cm - Charcoal,Kitchen,10,26.09,15
+SKU-1132,EstÃ©e Lauder Double Wear Foundation - Cream,Beauty,11,44.36,15
+SKU-1325,NARS Radiant Creamy Concealer Pack of 3 - Red,Beauty,11,30.6,15
+SKU-1304,Yoga Leggings Elite - Green,Clothing,11,58.83,15
+SKU-1373,Apple AirPods Pro 2 32cm,Electronics,11,249.0,15
+SKU-1292,Digital Alarm Clock - Teal,Home,11,25.24,15
+SKU-1406,Introduction to Algorithms - Hardcover Elite,Books,12,87.41,15
+SKU-1199,Yoga Leggings Elite - Coral,Clothing,12,49.12,15
+SKU-1119,Soccer Shin Guards Smart - Red,Sports,12,22.03,15
+SKU-1285,Silicone Spatula Set 2L - Charcoal,Kitchen,13,17.96,15
+SKU-1088,Baby Einstein Activity Gym 200g,Toys,13,41.81,15
+SKU-1106,Crayola Ultimate Art Set Studio,Toys,13,38.52,15
+SKU-1347,Urban Decay Naked Eyeshadow Palette - Blue,Beauty,14,51.79,15
+SKU-1094,The Great Gatsby - Paperback Advanced - Coral,Books,14,12.37,15
+SKU-1050,Polo Shirt Set of 4 - Cream,Clothing,14,35.47,15
+SKU-1069,Shoe Storage Cabinet Digital - Rose,Home,14,83.27,15
+SKU-1282,Breville Barista Express - Ivory,Kitchen,14,493.56,15
+SKU-1326,KÃ©rastase Shampoo 250ml Home,Beauty,15,31.74,15
+SKU-1020,Philips Hue White Bulb Pack of 5 - White,Electronics,15,16.56,15
+SKU-1172,Ceramic Coffee Mug 400ml - Slate,Kitchen,15,18.98,
+SKU-1497,Oven Mitts Pair - Rose,Kitchen,15,17.36,15
+SKU-1009,Anker 65W USB-C Charger Premium - Cream,Electronics,16,36.93,15
+SKU-1471,Kitchen Wall Shelf Elite,Home,16,44.48,15
+SKU-1084,Ceramic Coffee Mug 400ml Advanced - Rose,Kitchen,16,14.65,15
+SKU-1004,Nerf Elite Disruptor Blaster Premium - Coral,Toys,16,20.85,15
+SKU-1396,Jenga Classic Game Mini,Toys,16,18.99,15
+SKU-1310,The Ordinary Niacinamide Serum Small - Ivory,Beauty,17,13.18,15
+SKU-1090,Espresso Cups Set of 4 500ml - Lavender,Kitchen,17,24.51,15
+SKU-1367,MAC Matte Lipstick - Teal,Beauty,18,25.15,15
+SKU-1201,Apple iPhone 15 Elite,Electronics,18,822.54,15
+SKU-1337,Google Nest Hub 2nd Gen - Olive,Electronics,18,94.41,15
+SKU-1384,National Geographic Science Kit Travel - Burgundy,Toys,18,48.25,15
+SKU-1342,Tatcha Dewy Skin Cream - Ivory,Beauty,19,71.52,15
+SKU-1431,Leather Ankle Boots Standard,Clothing,19,145.52,15
+SKU-1410,Apple Lightning Cable 2m Pack of 3 - Olive,Electronics,19,24.49,15
+SKU-1061,Stainless Steel Stock Pot Compact,Kitchen,19,56.69,15
+SKU-1293,Kitchen Scale Digital 750ml,Kitchen,19,24.31,15
+SKU-1188,Fisher-Price Rock-a-Stack 400g,Toys,19,16.91,15
+SKU-1195,Playmobil Pirate Ship 400g - Navy,Toys,19,66.05,15
+SKU-1158,National Geographic Atlas 32cm,Books,20,35.16,15
+SKU-1358,National Geographic Atlas Large,Books,20,44.14,15
+SKU-1052,Barbie Fashionistas Doll - Burgundy,Toys,20,20.23,15
+SKU-1198,Magna-Tiles 32-Piece Set One Size,Toys,20,49.21,15
+SKU-1346,Dyson Supersonic Hair Dryer Analog,Beauty,21,428.99,15
+SKU-1103,The Da Vinci Code 2L,Books,21,14.66,15
+SKU-1162,Atomic Habits - Hardcover - Blue,Books,21,20.15,15
+SKU-1211,Steve Jobs Biography 2024 Edition,Books,21,22.45,15
+SKU-1042,Hooded Sweatshirt - Taupe,Clothing,21,65.67,15
+SKU-1070,Woven Laundry Basket X-Large - White,Home,21,26.33,15
+SKU-1125,Golf Putter Small - Olive,Sports,22,96.9,15
+SKU-1315 ,Hiking Backpack 30L X-Large - Rose,Sports,22,59.11,15
+SKU-1447,Ballet Flats - Olive,Clothing,23,43.2,15
+SKU-1089,Pasta Maker Machine 2024 Edition - Blue,Kitchen,23,84.02,15
+SKU-1299,Citrus Juicer Manual Essential - Olive,Kitchen,23,21.21,15
+SKU-1025,Giro Bicycle Helmet 400g - Slate,Sports,23,67.73,15
+SKU-1224,Steam Deck OLED 512GB XL - Cream,Electronics,24,549.0,15
+SKU-1112,Kitchen Wall Shelf - Taupe,Home,24,40.93,15
+SKU-1467,Wooden Coat Rack - Gray,Home,24,62.36,15
+SKU-1265 ,Oven Mitts Pair 200g - Ivory,Kitchen,24,15.63,15
+SKU-1412,Stainless Steel Stock Pot - Black,Kitchen,24,71.57,15
+SKU-1163,Harry Potter Complete Box Set Pack of 5,Books,25,67.26,15
+SKU-1435,Genuine Leather Belt Pack of 5 - Navy,Clothing,25,44.62,15
+SKU-1413,Samsung 1TB Portable SSD X-Large,Electronics,25,93.57,15
+SKU-1077,Stainless Steel Stock Pot - Rose,Kitchen,25,84.98,15
+SKU-1295,Wilson Tennis Racket Pack of 3 - White,Sports,25,104.95,15
+SKU-1155,The Very Hungry Caterpillar Pack of 3 - Slate,Books,26,11.77,15
+SKU-1097,Wool Beanie Hat - Taupe,Clothing,26,16.34,15
+SKU-1205,Garmin Forerunner 265 Smartwatch 400g - Navy,Electronics,26,362.27,15
+SKU-1118,LEGO Star Wars X-Wing 28cm,Toys,26,53.0,15
+SKU-1197,Baby Einstein Activity Gym - Burgundy,Toys,26,46.73,15
+SKU-1062,Velvet Cushion Cover - Red,Home,27,26.34,15
+SKU-1334,LEGO Classic Creative Bricks Home - Cream,Toys,27,38.83,15
+SKU-1144,Drunk Elephant C-Firma Day Serum Ultra - White,Beauty,28,69.42,15
+SKU-1229,Monopoly Classic Board Game Analog - Green,Toys,28,25.09,15
+SKU-1234,Cashmere Scarf Eco - Red,Clothing,29,53.0,15
+SKU-1437,Chino Shorts - Teal,Clothing,29,32.59,15
+SKU-1151,Google Nest Hub 2nd Gen XL,Electronics,29,92.04,15
+SKU-1294,Air Fryer 5.5L Advanced - Teal,Kitchen,29,119.03,15
+SKU-1183,Crayola Ultimate Art Set 32cm,Toys,29,38.21,15
+SKU-1063,Woven Laundry Basket Large,Home,30,42.85,15
+SKU-1078,Damascus Knife Set 3pcs 30cm,Kitchen,30,72.52,15
+SKU-1238,Colander Stainless Steel 28cm,Kitchen,30,26.94,15
+SKU-1332,EstÃ©e Lauder Double Wear Foundation - Taupe,Beauty,31,47.22,15
+SKU-1349,Moroccanoil Conditioner XL - Red,Beauty,31,28.56,15
+SKU-1236,Linen Button-Up Shirt Mini,Clothing,31,36.83,15
+SKU-1015,Google Nest Hub 2nd Gen Pack of 5 - Lavender,Electronics,31,91.71,15
+SKU-1015,Google Nest Hub 2nd Gen Pack of 5 - Lavender,Electronics,31,33.58,15
+SKU-1499,Weighted Blanket 7kg Advanced - Graphite,Home,31,91.16,15
+SKU-1067,Cycling Jersey - Ivory,Sports,31,62.61,15
+SKU-1160,Magna-Tiles 32-Piece Set Set of 6 - Red,Toys,31,54.17,15
+SKU-1357,Oxford English Dictionary - White,Books,32,33.1,15
+SKU-1046,Swim Trunks Standard,Clothing,32,26.64,15
+SKU-1002,Samsung Galaxy S24 - Coral,Electronics,32,822.58,15
+SKU-1218,Logitech C920 HD Webcam 28cm,Electronics,32,82.91,15
+SKU-1064,Ninja Professional Blender Classic - Rose,Kitchen,32,118.06,15
+SKU-1487,Salad Spinner - Red,Kitchen,32,16.8,15
+SKU-1494,Air Fryer 5.5L Standard - Ivory,Kitchen,32,110.27,15
+SKU-1484,Laura Mercier Translucent Powder Travel - Coral,Beauty,33,39.25,15
+SKU-1001,Harry Potter Complete Box Set 2024 Edition,Books,33,78.31,15
+SKU-1154,Nintendo Switch OLED Advanced - Navy,Electronics,33,349.0,15
+SKU-1072,Decorative Throw Pillow - Burgundy,Home,33,-8.91,15
+SKU-1288,Electric Kettle 1.7L 1L,Kitchen,33,42.57,15
+SKU-1141,Olaplex No. 3 Treatment Analog,Beauty,34,0.0,15
+SKU-1010,Canon EOS R50 Camera 2L - Lavender,Electronics,34,519.78,15
+SKU-1258,Round Wall Mirror 60cm X-Large,Home,34,96.19,15
+SKU-1402,Samsung Galaxy S24 - Gray,Electronics,35,957.94,15
+SKU-1416,Raspberry Pi 5 8GB Analog,Electronics,35,80.94,15
+SKU-1034,Weighted Blanket 7kg Studio - Red,Home,35,97.74,15
+SKU-1307,Bamboo Bath Mat - Burgundy,Home,35,35.69,15
+SKU-1095,Rice Cooker 1.8L X-Large - Red,Kitchen,35,58.07,15
+SKU-1136,Spalding NBA Basketball Eco,Toys,35,23.88,15
+SKU-1216,Raspberry Pi 5 8GB Elite,,36,81.38,15
+SKU-1493,Aesop Resurrection Hand Balm 2L,Beauty,36,27.16,15
+SKU-1156,Leuchtturm1917 Bullet Journal Studio,Books,36,23.92,15
+SKU-1366,To Kill a Mockingbird Eco,Books,36,13.83,15
+SKU-1037,Silk Blouse - White,Clothing,36,74.75,15
+SKU-1017 ,Arduino Uno R4 WiFi - Teal,Electronics,36,26.08,15
+SKU-1028,Google Nest Hub 2nd Gen 500ml,Electronics,36,90.96,15
+SKU-1420,Philips Hue White Bulb One Size - Beige,Electronics,36,15.81,15
+SKU-1214,Stainless Steel Stock Pot Max - Graphite,Kitchen,36,45.88,15
+SKU-1223 ,Baby Einstein Activity Gym 32cm,Toys,36,42.06,15
+SKU-1345,Kiehl's Midnight Recovery Concentrate X-Large - Slate,Beauty,37,54.34,15
+SKU-1350,Jo Malone London Candle Set of 4 - Burgundy,Beauty,37,70.22,15
+SKU-1441,Cargo Pants Plus,Clothing,37,46.02,15
+SKU-1449,Yoga Leggings Standard - Green,Clothing,37,33.73,15
+SKU-1083,Porcelain Dinner Plate Set Pack of 5,Kitchen,37,67.94,15
+SKU-1377,Catan Board Game - Slate,Toys,37,40.62,15
+SKU-1173,Rich Dad Poor Dad 30cm,Books,38,16.55,15
+SKU-1033,Wool Beanie Hat One Size,Clothing,38,24.78,15
+SKU-1215,Google Nest Hub 2nd Gen Set of 4 - Cream,Electronics,38,95.41,15
+SKU-1419,TP-Link Archer AX3000 Router XL - Cream,Electronics,38,134.66,15
+SKU-1500,Pastry Brush Set Pack of 3 - Red,Kitchen,38,14.69,15
+SKU-1055,National Geographic Science Kit 200g - Rose,Toys,38,51.76,15
+SKU-1186,Hot Wheels 20-Car Gift Pack Plus,Toys,38,28.33,15
+SKU-1194,Funko Pop! Vinyl Figure Home - Rose,Toys,38,15.12,15
+SKU-1478,LEGO Star Wars X-Wing Medium,Toys,38,56.06,15
+SKU-1026,Cotton Crew Neck T-Shirt 2024 Edition,Clothing,39,23.91,15
+SKU-1445,Shoe Storage Cabinet Small - Ivory,Home,39,78.38,15
+SKU-1274,Electric Kettle 1.7L Essential - Coral,Kitchen,39,60.94,15
+SKU-1436,Non-Stick Frying Pan 28cm Essential,Kitchen,39,36.77,15
+SKU-1171,"Thinking, Fast and Slow Mini",Books,40,16.37,15
+SKU-1241,Raspberry Pi 5 8GB Performance,Electronics,40,80.45,15
+SKU-1423,Nintendo Switch OLED Small,Electronics,40,349.0,15
+SKU-1075,Underbed Storage Box X-Large - Burgundy,Home,40,20.93,15
+SKU-1269,Shoe Storage Cabinet Analog - Olive,Home,40,60.65,15
+SKU-1087,Glass Food Storage Set - Black,Kitchen,40,43.86,15
+SKU-1134,OPI Nail Polish Advanced - Cream,Beauty,41,17.08,15
+SKU-1138,Sunday Riley Good Genes Serum Set of 4,Beauty,41,104.81,15
+SKU-1086,Cast Iron Dutch Oven Essential,Kitchen,41,142.36,15
+SKU-1352,Salad Spinner - Coral,Kitchen,41,22.28,15
+SKU-1485,Silicone Spatula Set Set of 6 - Red,Kitchen,41,11.33,15
+SKU-1328,Insulated Water Bottle 750ml Set of 6,Sports,41,0.0,15
+SKU-1330,Chanel No. 5 Eau de Parfum Pack of 5 - Ivory,Beauty,42,97.88,15
+SKU-1453,Modern Table Lamp 750ml,Home,42,49.81,15
+SKU-1498,Colander Stainless Steel 28cm,Kitchen,42,20.97,15
+SKU-1019,Baby Einstein Activity Gym Ultra - Gray,Toys,42,41.39,15
+SKU-1182,Traxxas RC Monster Truck - Gray,Toys,42,145.51,15
+SKU-1268,Olaplex No. 3 Treatment Set of 6,Beauty,43,31.88,15
+SKU-1356,Leuchtturm1917 Bullet Journal Ultra,Books,43,23.61,15
+SKU-1430,Becoming by Michelle Obama Small - Gray,Books,43,18.12,15
+SKU-1115,Velvet Cushion Cover X-Large - Coral,Home,43,0.0,15
+SKU-1383,Crayola Ultimate Art Set One Size,Toys,43,31.26,15
+SKU-1149,Laura Mercier Translucent Powder 2024 Edition - White,Beauty,44,39.85,15
+SKU-1248,Denim Jacket Small,Clothing,44,93.61,15
+SKU-1426,Cotton Crew Neck T-Shirt Signature,Clothing,44,15.81,15
+SKU-1073,Funko Pop! Vinyl Figure 28cm,Toys,44,15.4,15
+SKU-1152,"Salt, Fat, Acid, Heat - Cookbook - Graphite",Books,45,34.81,15
+SKU-1242,Hooded Sweatshirt - Olive,Clothing,45,66.41,15
+SKU-1099,Citrus Juicer Manual Mini - Coral,Kitchen,45,19.18,15
+SKU-1184,Espresso Cups Set of 4 Plus - Navy,Kitchen,45,23.83,15
+SKU-1477,Stainless Steel Stock Pot - Coral,Kitchen,45,71.19,15
+SKU-1102,Adjustable Dumbbell 20kg - Blue,Sports,45,73.01,15
+SKU-1309,Giro Bicycle Helmet Ultra - Beige,Sports,45,73.95,15
+SKU-1129,The Ordinary Niacinamide Serum Premium - Slate,Beauty,46,12.8,15
+SKU-1338,Sunday Riley Good Genes Serum Pack of 5,Beauty,46,99.8,15
+SKU-1428,Waterproof Winter Jacket Pack of 3,Clothing,46,94.01,15
+SKU-1003,Sony WH-1000XM5 Headphones Large,Electronics,46,363.55,15
+SKU-1018 ,Logitech C920 HD Webcam 750ml,Electronics,46,74.79,15
+SKU-1257,Minimalist Wall Clock - Ivory,Home,46,44.0,15
+SKU-1322,Slim Fit Denim Jeans - Slate,Clothing,47,65.85,15
+SKU-1169,Baby Einstein Activity Gym Digital - Gray,Toys,47,42.8,15
+SKU-1191,Monopoly Classic Board Game Lite,Toys,47,25.04,15
+SKU-1150,Jo Malone London Candle 500ml - Gray,Beauty,48,65.97,15
+SKU-1153,Introduction to Algorithms - Hardcover One Size,Books,48,88.72,15
+SKU-1359,Milk and Honey Poetry Collection Analog - Green,Books,50,16.97,15
+SKU-1451,Rich Dad Poor Dad Plus,Books,50,16.87,15
+SKU-1461,Weighted Blanket 7kg Compact,Home,50,106.3,15
+SKU-1105,Resistance Bands Set 32cm - Blue,Sports,50,15.97,15
+SKU-1122,Weighted Hula Hoop - Blue,Sports,50,33.76,15
+SKU-1306,Wilson Tennis Racket Ultra,Sports,50,90.56,15
+SKU-1319,Charlotte Tilbury Pillow Talk Lipstick Smart - White,Beauty,51,34.26,15
+SKU-1421,Garnier Sheet Mask Set Pro,Beauty,51,15.67,15
+SKU-1161,Sapiens: A Brief History of Humankind Plus,Books,51,16.7,15
+SKU-1362,Atomic Habits - Hardcover - Beige,Books,51,21.19,15
+SKU-1331,Kitchen Wall Shelf Performance,Home,51,45.82,15
+SKU-1403,Premium Yoga Mat 6mm Set of 4,Sports,51,31.05,15
+SKU-1372,The Subtle Art of Not Giving a F*ck - Lavender,Books,52,16.83,15
+SKU-1440,Silk Blouse 750ml - Taupe,Clothing,52,54.27,15
+SKU-1203,Sony WH-1000XM5 Headphones Pack of 3,Electronics,52,367.31,15
+SKU-1254,Persian Style Area Rug Home - Olive,Home,52,182.88,15
+SKU-1255,Blackout Curtains Pair 500ml - Burgundy,Home,52,64.13,15
+SKU-1111,Foam Roller 2024 Edition,Sports,52,26.71,15
+SKU-1303,Nike Air Zoom Running Shoes 200g,Sports,52,117.49,15
+SKU-1381,Jellycat Bashful Bunny Plush Max,Toys,52,26.74,15
+SKU-1335,Dyson Supersonic Hair Dryer Set of 2 - Olive,Beauty,53,403.02,15
+SKU-1240,Silk Blouse One Size - Blue,Clothing,53,48.51,15
+SKU-1275,Underbed Storage Box 2L - Rose,Home,53,19.71,15
+SKU-1470,Microfiber Duvet Cover 500ml - Ivory,Home,53,58.37,15
+SKU-1483,Porcelain Dinner Plate Set 750ml,Kitchen,53,56.86,15
+SKU-1390,Melissa & Doug Wooden Train Set 400g - Cream,Toys,53,59.87,15
+SKU-1167,1984 - George Orwell - Lavender,Books,54,11.04,15
+SKU-1168,The Hobbit - Illustrated 1L,Books,54,25.62,15
+SKU-1443,Pleated Midi Skirt Set of 6,Clothing,54,44.89,15
+SKU-1457,The Hobbit - Illustrated - Rose,Books,55,25.95,15
+SKU-1027,Slim Fit Denim Jeans - Blue,Clothing,55,67.02,15
+SKU-1260,Bamboo Drawer Organizer Large - Olive,Home,55,30.93,15
+SKU-1312,Kettlebell 16kg - Charcoal,Sports,55,56.39,15
+SKU-1148,Cargo Pants Set of 2,Clothing,56,57.41,15
+SKU-1459,Scented Soy Candle Lite - Lavender,Home,56,12.79,15
+SKU-1321,Exercise Ball 65cm Classic,Sports,56,27.75,15
+SKU-1110,Speed Jump Rope Set of 6 - Green,,57,15.83,15
+SKU-1228,Waterproof Winter Jacket Large,Clothing,57,178.53,15
+SKU-1429,Floral Summer Dress Standard - White,Clothing,57,43.94,15
+SKU-1012,Canon EOS R50 Camera - Olive,Electronics,57,575.18,15
+SKU-1071,Kitchen Wall Shelf Plus,Home,57,33.09,15
+SKU-1267,Wooden Coat Rack - Olive,Home,57,60.09,15
+SKU-1344,Drunk Elephant C-Firma Day Serum Essential - Teal,Beauty,58,73.71,15
+SKU-1221,Fitbit Charge 6 Digital,Electronics,58,137.29,15
+SKU-1076,Ninja Professional Blender Classic,Kitchen,58,91.5,15
+SKU-1302,Adjustable Dumbbell 20kg - Teal,Sports,58,78.55,15
+SKU-1398,Magna-Tiles 32-Piece Set Set of 2,Toys,58,56.81,15
+SKU-1329,The Ordinary Niacinamide Serum Comfort - Burgundy,Beauty,59,14.89,15
+SKU-1339,Benefit Cosmetics Hoola Bronzer Plus - Graphite,Beauty,59,30.49,15
+SKU-1165,Steve Jobs Biography 500ml - Ivory,Books,59,21.45,15
+SKU-1044,Blazer Jacket Elite - Ivory,Clothing,59,104.89,15
+SKU-1068,LED Strip Lights 5m Set of 4,Home,59,25.64,15
+SKU-1263,Woven Laundry Basket Set of 4,Home,59,31.86,15
+SKU-1193,Magna-Tiles 32-Piece Set Large,Toys,59,52.07,15
+SKU-1217,"Thinking, Fast and Slow - Red",Books,60,16.07,15
+SKU-1289,Pleated Midi Skirt Compact - Teal,Clothing,60,36.15,15
+SKU-1442,Fleece Throw Blanket - Slate,Home,60,52.1,15
+SKU-1491,Salad Spinner Digital,Kitchen,60,24.52,15
+SKU-1053,Modern Table Lamp Pack of 5,,61,91.18,15
+SKU-1011,JBL Flip 6 Bluetooth Speaker Studio,Electronics,61,140.56,15
+SKU-1454,Nintendo Switch OLED Premium - Slate,Electronics,61,349.0,15
+SKU-1074,Aromatherapy Diffuser Standard - Gray,Home,61,45.92,15
+SKU-1266,Artificial Monstera Plant 2024 Edition,Home,61,39.46,15
+SKU-1452,Fleece Throw Blanket - Coral,Home,61,51.03,15
+SKU-1486,Cast Iron Dutch Oven Max,Kitchen,61,139.4,15
+SKU-1114,Cycling Jersey Pro - Charcoal,Sports,61,55.5,15
+SKU-1314,Cycling Jersey Studio - Red,Sports,61,65.17,15
+SKU-1143,Charlotte Tilbury Pillow Talk Lipstick 28cm,Beauty,62,32.86,15
+SKU-1280,Dune - Frank Herbert Medium - Cream,Books,62,16.75,15
+SKU-1085,Samsung 1TB Portable SSD Medium - Ivory,Electronics,62,89.18,15
+SKU-1222,Bose QuietComfort Earbuds II - Graphite,Electronics,62,263.03,15
+SKU-1422,Bose QuietComfort Earbuds II - Lavender,Electronics,63,282.27,15
+SKU-1175,Woven Laundry Basket Small - Rose,Home,63,32.19,15
+SKU-1439,"Salt, Fat, Acid, Heat - Cookbook Essential - Olive",Books,64,34.06,15
+SKU-1054,Persian Style Area Rug Performance - Blue,Home,64,164.37,15
+SKU-1297,Oven Mitts Pair - Charcoal,Kitchen,64,16.75,15
+SKU-1305,Resistance Bands Set Set of 4 - Blue,Sports,64,22.23,15
+SKU-1490,Nike Air Zoom Running Shoes Set of 4 - Lavender,Sports,64,141.8,15
+SKU-1066,Artificial Monstera Plant Signature,Home,65,45.89,15
+SKU-1391,Woven Laundry Basket Studio,Home,65,44.37,15
+SKU-1480,Ninja Professional Blender Pack of 5 - Olive,Kitchen,65,120.69,15
+SKU-1192,Rubik's Cube 3x3 - Burgundy,Toys,65,14.01,15
+SKU-1380,LEGO Classic Creative Bricks 200g - Blue,Toys,65,-35.45,15
+SKU-1405,Keychron K2 Mechanical Keyboard Small - Slate,Electronics,66,92.74,15
+SKU-1479,Bamboo Cutting Board XL - Beige,Kitchen,66,19.43,15
+SKU-1386,Hot Wheels 20-Car Gift Pack Lite,Toys,66,25.54,15
+SKU-1481,Rubik's Cube 3x3 2024 Edition,Toys,66,14.66,15
+SKU-1341,Olaplex No. 3 Treatment 2024 Edition,Beauty,67,31.43,15
+SKU-1371,"Thinking, Fast and Slow Plus",Books,67,17.12,15
+SKU-1243,Pleated Midi Skirt Pack of 3,Clothing,67,58.09,15
+SKU-1284,Ceramic Coffee Mug 400ml Digital - Black,Kitchen,67,18.11,15
+SKU-1489,Pasta Maker Machine Plus - Burgundy,Kitchen,67,84.95,15
+SKU-1259,Dyson Supersonic Hair Dryer Comfort - Navy,Beauty,68,411.92,15
+SKU-1336,Clinique Take The Day Off Balm Max,Beauty,68,31.44,15
+SKU-1496,Steve Jobs Biography Eco,Books,68,19.48,15
+SKU-1230,Merino Wool Sweater 32cm - Beige,Clothing,68,70.49,15
+SKU-1206,Dell UltraSharp 27 Monitor Signature,Electronics,68,476.03,15
+SKU-1065,Glass Photo Frame 20x25 Set of 2 - Gray,Home,68,27.88,15
+SKU-1364,Woven Laundry Basket Analog - Red,Home,68,28.16,15
+SKU-1116 ,Boxing Gloves 12oz Compact,Sports,68,31.24,15
+SKU-1387,Play-Doh 36-Can Mega Pack - Ivory,Toys,68,26.21,15
+SKU-1408,Garmin Forerunner 265 Smartwatch 750ml,Electronics,69,389.54,15
+SKU-1048,Denim Jacket Set of 4,Clothing,70,77.15,
+SKU-1458,Round Wall Mirror 60cm 1L,Home,70,77.84,15
+SKU-1093,Kitchen Scale Digital 400g,Kitchen,70,22.81,15
+SKU-1170,The Da Vinci Code 28cm - Burgundy,Books,71,14.53,15
+SKU-1397,"Thinking, Fast and Slow - Charcoal",Books,71,19.01,15
+SKU-1409,Gone Girl - Thriller Smart - Rose,Books,71,14.95,15
+SKU-1251,Memory Foam Pillow 2024 Edition,Home,71,41.11,15
+SKU-1049 ,Electric Kettle 1.7L Home - Taupe,Kitchen,71,60.35,15
+SKU-1082,Gym Duffel Bag 40L - Rose,Sports,71,63.07,15
+SKU-1107,Adidas FIFA Football - Teal,Sports,71,43.84,15
+SKU-1126,KÃ©rastase Shampoo 250ml Premium,Beauty,72,-45.15,15
+SKU-1128,La Roche-Posay Moisturizer 400g,Beauty,72,37.23,15
+SKU-1261,Weighted Blanket 7kg Essential,Home,72,104.23,15
+SKU-1456,Ceramic Decorative Vase Digital,Home,72,53.12,15
+SKU-1462,Velvet Cushion Cover - Taupe,Home,72,23.51,15
+SKU-1286,Stainless Steel Stock Pot Studio,Kitchen,72,70.79,15
+SKU-1210,Apple Lightning Cable 2m 28cm - Black,Electronics,73,21.86,15
+SKU-1407,Apple iPad Air - Graphite,Electronics,73,659.44,15
+SKU-1190,Catan Board Game One Size - Charcoal,Toys,73,44.5,15
+SKU-1164,Harry Potter Complete Box Set Home - Lavender,Books,74,62.46,15
+SKU-1360,Gone Girl - Thriller Set of 2 - Burgundy,Books,74,15.96,15
+SKU-1245,Thermal Base Layer Top Set of 2 - Graphite,Clothing,74,31.53,15
+SKU-1417,Arduino Uno R4 WiFi - Black,Electronics,74,27.01,15
+SKU-1178,Citrus Juicer Manual Set of 4,Kitchen,74,16.93,15
+SKU-1235,Baseball Bat Aluminum Medium - Charcoal,Sports,74,67.16,15
+SKU-1047,Ballet Flats - Slate,Clothing,75,56.61,15
+SKU-1227,Slim Fit Denim Jeans - White,Clothing,75,66.81,15
+SKU-1469,Apple AirPods Pro 2 Essential - Slate,Electronics,75,249.0,15
+SKU-1252,Fleece Throw Blanket - Slate,Home,75,42.71,15
+SKU-1291,Salad Spinner Home,Kitchen,75,15.06,15
+SKU-1174,The Four Agreements XL - Teal,Books,76,13.1,
+SKU-1029,Floral Summer Dress Plus - Beige,Clothing,76,74.6,15
+SKU-1030,Merino Wool Sweater 2L - Navy,Clothing,76,91.24,15
+SKU-1250,Slim Fit Denim Jeans 500ml - Coral,Clothing,76,74.85,15
+SKU-1204,Logitech MX Master 3S Mouse Lite - White,Electronics,76,98.23,15
+SKU-1080,Ninja Professional Blender 2L - Rose,Kitchen,76,98.78,
+SKU-1127,Espresso Cups Set of 4 - White,Kitchen,76,26.3,15
+SKU-1100,Weighted Hula Hoop 30cm - Slate,Sports,76,27.5,15
+SKU-1448,Kettlebell 16kg Small,Sports,76,54.04,15
+SKU-1140,NARS Radiant Creamy Concealer 200g - Lavender,Beauty,77,31.67,15
+SKU-1264,Digital Alarm Clock Digital - Graphite,Home,77,32.28,15
+SKU-1058,Baby Einstein Activity Gym 400g,Toys,77,-38.14,15
+SKU-1393,LEGO Star Wars X-Wing Set of 6,Toys,77,57.05,15
+SKU-1399,Schleich Horse Stable Playset 2024 Edition - Graphite,Toys,77,67.97,15
+SKU-1363,The Alchemist - Paperback Pack of 5,Books,78,15.76,15
+SKU-1023,Nintendo Switch OLED Small,Electronics,78,349.0,15
+SKU-1400,Balance Board Small - Red,Sports,78,43.66,15
+SKU-1415,Melissa & Doug Wooden Train Set 32cm - Cream,Toys,78,54.38,15
+SKU-1038,Running Sneakers Large,Clothing,79,108.93,15
+SKU-1031,Aromatherapy Diffuser Home,Home,79,48.61,15
+SKU-1465,Glass Photo Frame 20x25 200g - Red,Home,79,18.34,15
+SKU-1181,Damascus Knife Set 3pcs Max,Kitchen,79,77.54,15
+SKU-1324,Baseball Bat Aluminum Digital - Gray,Sports,79,52.39,15
+SKU-1281,Retro 2-Slice Toaster Compact,Kitchen,80,76.12,15
+SKU-1121,Tatcha Dewy Skin Cream Travel,Beauty,81,70.94,15
+SKU-1424,The Very Hungry Caterpillar XL - Red,Books,81,13.06,15
+SKU-1022,Cotton Crew Neck T-Shirt - Graphite,Clothing,81,18.94,15
+SKU-1444,Blazer Jacket Analog - Beige,Clothing,81,124.26,15
+SKU-1051,Memory Foam Pillow Advanced,Home,81,46.38,15
+SKU-1196,Glass Photo Frame 20x25 Performance,Home,82,17.79,15
+SKU-1466,Decorative Throw Pillow Essential,Home,82,19.54,15
+SKU-1179,Marvel Legends Action Figure Plus - Olive,Toys,82,25.21,15
+SKU-1008,Garmin Forerunner 265 Smartwatch Set of 2,Electronics,83,353.83,15
+SKU-1014,Amazon Echo Dot 5th Gen Standard - Ivory,Electronics,83,51.31,15
+SKU-1057,Minimalist Wall Clock - Black,Home,83,49.93,15
+SKU-1273,Bamboo Bath Mat Large,Home,83,37.29,15
+SKU-1455,Blackout Curtains Pair 200g - Coral,Home,83,60.41,15
+SKU-1361,Kiehl's Midnight Recovery Concentrate Premium,Beauty,84,49.51,15
+SKU-1353,Introduction to Algorithms - Hardcover Large,Books,84,88.74,15
+SKU-1091,Arduino Uno R4 WiFi Essential,Electronics,84,26.87,15
+SKU-1278,Damascus Knife Set 3pcs 30cm,Kitchen,84,61.78,15
+SKU-1482,Breville Barista Express - Teal,Kitchen,84,462.91,15
+SKU-1311,Foam Roller Home,Sports,84,23.16,15
+SKU-1355,La Roche-Posay Moisturizer Large - Blue,Beauty,85,29.96,15
+SKU-1013,The Great Gatsby - Paperback Pack of 5,Books,85,0.0,15
+SKU-1351,The Great Gatsby - Paperback Mini,Books,85,13.25,15
+SKU-1079,Merino Wool Sweater Essential - Gray,Clothing,85,85.52,15
+SKU-1476,Non-Stick Frying Pan 28cm Lite,Kitchen,85,50.01,15
+SKU-1120,Trekking Poles Pair 200g - Red,Sports,85,48.56,15
+SKU-1200,VTech Kidizoom Camera 500ml - Slate,Toys,85,46.13,15
+SKU-1392,Rubik's Cube 3x3 - Red,Toys,85,15.61,15
+SKU-1021,Fitbit Charge 6 Digital,Electronics,86,148.07,15
+SKU-1272,Decorative Throw Pillow - Cream,Home,86,22.5,15
+SKU-1389,Nerf Elite Disruptor Blaster Mini - Cream,,87,23.09,15
+SKU-1411,JBL Flip 6 Bluetooth Speaker Max,Electronics,87,135.57,15
+SKU-1092,Meat Thermometer Digital - Coral,Kitchen,87,25.79,15
+SKU-1253,Wilson Tennis Racket Small,Sports,87,73.6,15
+SKU-1006,Dell UltraSharp 27 Monitor Performance,Electronics,88,490.43,15
+SKU-1287,Glass Food Storage Set - Navy,Kitchen,88,30.4,15
+SKU-1104,Insulated Water Bottle 750ml Smart - Rose,Sports,88,19.78,15
+SKU-1185,Spalding NBA Basketball 32cm - Black,Toys,88,28.32,15
+SKU-1045,Thermal Base Layer Top 200g - Burgundy,Clothing,89,37.07,15
+SKU-1249,Yoga Leggings Signature - Teal,Clothing,89,42.86,15
+SKU-1376,Chino Shorts Premium,Clothing,89,37.75,15
+SKU-1379,Fitbit Charge 6 Pro - Ivory,Electronics,89,142.61,15
+SKU-1139,Bamboo Drawer Organizer Essential - Slate,Home,89,25.03,15
+SKU-1113,Swim Goggles Anti-Fog 750ml,Sports,89,19.65,15
+SKU-1395,Playmobil Pirate Ship 2L - Green,Toys,89,63.36,15
+SKU-1213,Samsung 1TB Portable SSD Medium,Electronics,90,112.33,15
+SKU-1081,Retro 2-Slice Toaster Standard,Kitchen,90,74.34,15
+SKU-1283,Chanel No. 5 Eau de Parfum Pack of 3,Beauty,91,124.82,15
+SKU-1374,The Four Agreements Elite - Gray,Books,91,12.58,15
+SKU-1450,Polo Shirt 30cm - Blue,Clothing,91,36.73,15
+SKU-1370,Funko Pop! Vinyl Figure 750ml - Cream,Toys,91,14.48,15
+SKU-1378,Barbie Fashionistas Doll X-Large,Toys,91,23.82,15
+SKU-1135,Dyson Supersonic Hair Dryer 30cm - Burgundy,Beauty,92,428.52,15
+SKU-1354,Becoming by Michelle Obama Plus - Navy,Books,92,18.53,15
+SKU-1472,The Hobbit - Illustrated - Navy,Books,92,26.31,15
+SKU-1231,Leather Ankle Boots Smart,Clothing,92,140.97,15
+SKU-1239,Puffer Vest Mini - Navy,Clothing,92,84.52,15
+SKU-1005,Keychron K2 Mechanical Keyboard X-Large - Ivory,Electronics,92,104.84,15
+SKU-1117,Pull-Up Bar Doorway - Lavender,Sports,92,40.96,15
+SKU-1176,Ravensburger 1000pc Puzzle Classic,Toys,92,21.44,15
+SKU-1247,Melissa & Doug Wooden Train Set - Burgundy,Toys,92,56.13,15
+SKU-1109,Pride and Prejudice Max - Navy,Books,93,10.83,15
+SKU-1237,Chino Shorts - Cream,Clothing,93,36.06,15
+SKU-1226,Scented Soy Candle Smart,Home,93,20.3,15
+SKU-1271,Ninja Professional Blender Ultra,Kitchen,93,124.69,15
+SKU-1276,Non-Stick Frying Pan 28cm Analog,Kitchen,93,47.62,15
+SKU-1463,The Great Gatsby - Paperback Set of 2,Books,94,15.79,15
+SKU-1208,Wool Beanie Hat 32cm,Clothing,94,17.24,15
+SKU-1207,Apple iPad Air - Navy,Electronics,94,643.82,15
+SKU-1016,Artificial Monstera Plant Essential,Home,94,29.72,15
+SKU-1056,Ceramic Decorative Vase Lite,Home,94,35.29,15
+SKU-1059,Scented Soy Candle Studio - Blue,Home,94,19.7,15
+SKU-1043,Citrus Juicer Manual Small,Kitchen,94,17.75,15
+SKU-1096,Pepper Mill Wooden Analog,Kitchen,94,27.63,15
+SKU-1348,Aesop Resurrection Hand Balm Pack of 3,Beauty,95,31.44,15
+SKU-1036,Linen Button-Up Shirt Home,Clothing,95,43.17,15
+SKU-1460,Aromatherapy Diffuser Set of 2 - Beige,Home,95,29.51,15
+SKU-1418,Fisher-Price Rock-a-Stack Medium,Toys,95,15.94,15
+SKU-1039,Puffer Vest Comfort - Graphite,Clothing,96,87.97,15
+SKU-1270,Microfiber Duvet Cover Large - Black,Home,96,64.11,15
+SKU-1333,Garnier Sheet Mask Set Pack of 5,Beauty,97,19.06,15
+SKU-1032,Cotton Athletic Socks 6-Pack - Teal,Clothing,97,14.75,15
+SKU-1219,TP-Link Archer AX3000 Router Compact - Red,Electronics,97,166.92,15
+SKU-1464,Digital Alarm Clock Essential - Teal,Home,97,20.32,15
+SKU-1277,Non-Stick Frying Pan 28cm - Navy,Kitchen,97,62.06,15
+SKU-1492,Meat Thermometer Digital - Slate,Kitchen,97,25.16,15
+SKU-1308,Gym Duffel Bag 40L 750ml,Sports,97,68.54,15
+SKU-1007,Melissa & Doug Wooden Train Set - Navy,Toys,97,54.23,15
+SKU-1147,Urban Decay Naked Eyeshadow Palette - Beige,Beauty,98,53.04,15
+SKU-1433,Sapiens: A Brief History of Humankind Large,Books,98,19.22,15
+SKU-1101,Premium Yoga Mat 6mm Max,Sports,98,28.49,15
+SKU-1108,Gym Duffel Bag 40L 400g,Sports,98,78.06,15
+SKU-1187,Golf Putter - Graphite,Sports,98,76.97,15
+SKU-1124 ,Playmobil Pirate Ship Elite - Charcoal,Toys,98,67.14,15
+SKU-1157,Schleich Horse Stable Playset - Graphite,Toys,98,66.15,15
+SKU-1108,Gym Duffel Bag 40L 400g,Toys,98,78.06,15
+SKU-1232,Sunday Riley Good Genes Serum - Beige,Beauty,99,104.97,15
+SKU-1375,Dune - Frank Herbert Pack of 5 - Beige,Books,99,19.32,15
+SKU-1320,Trekking Poles Pair 200g - White,Sports,99,41.23,15
+SKU-1177,Catan Board Game - White,Toys,99,40.11,15
+SKU-1142,Fisher-Price Rock-a-Stack - Black,,100,16.38,15
+SKU-1131,MAC Matte Lipstick Travel,Beauty,100,26.44,15
+SKU-1385,Waterproof Winter Jacket Medium - Slate,Clothing,100,147.54,15
+SKU-1475,Floral Summer Dress Set of 4 - White,Clothing,100,45.98,15
+SKU-1388,Samsung 1TB Portable SSD Medium,Electronics,100,96.36,15
+SKU-1401,Apple iPhone 15 Compact,Electronics,100,861.58,15
+SKU-1296,Pepper Mill Wooden Compact,Kitchen,100,33.76,15

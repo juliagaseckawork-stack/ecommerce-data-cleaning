@@ -1,0 +1,506 @@
+consolidated_sku,product_name,category,catalog_integration_status,retail_price,current_supplier_cost,current_unit_margin_amount,current_margin_percentage,margin_health_status,internal_stock,reorder_point,supplier_stock,total_system_availability,stock_health_status,recommended_fulfillment_route
+SKU-9991,,,SUPPLIER ONLY,,25.48,,,N/A Missing price data,0,,29,29,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-9992,,,SUPPLIER ONLY,,92.67,,,N/A Missing price data,0,,191,191,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-9993,,,SUPPLIER ONLY,,49.53,,,N/A Missing price data,0,,200,200,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-9994,,,SUPPLIER ONLY,,24.97,,,N/A Missing price data,0,,32,32,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-9995,,,SUPPLIER ONLY,,101.87,,,N/A Missing price data,0,,128,128,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-1001,Harry Potter Complete Box Set 2024 Edition,Books,MATCHED,78.31,25.34,52.97,67.64,MARGIN OK,33,15,44,77,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1002,Samsung Galaxy S24 - Coral,Electronics,MATCHED,822.58,287.7,534.88,65.02,MARGIN OK,32,15,136,168,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1003,Sony WH-1000XM5 Headphones Large,Electronics,MATCHED,363.55,126.68,236.87,65.15,MARGIN OK,46,15,461,507,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1004,Nerf Elite Disruptor Blaster Premium - Coral,Toys,MATCHED,20.85,14.46,6.39,30.65,MARGIN OK,16,15,194,210,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1005,Keychron K2 Mechanical Keyboard X-Large - Ivory,Electronics,MATCHED,104.84,56.75,48.09,45.87,MARGIN OK,92,15,170,262,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1006,Dell UltraSharp 27 Monitor Performance,Electronics,MATCHED,490.43,199.23,291.2,59.38,MARGIN OK,88,15,26,114,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1007,Melissa & Doug Wooden Train Set - Navy,Toys,MATCHED,54.23,20.17,34.06,62.81,MARGIN OK,97,15,172,269,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1008,Garmin Forerunner 265 Smartwatch Set of 2,Electronics,MATCHED,353.83,195.47,158.36,44.76,MARGIN OK,83,15,359,442,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1009,Anker 65W USB-C Charger Premium - Cream,Electronics,MATCHED,36.93,15.15,21.78,58.98,MARGIN OK,16,15,0,16,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1010,Canon EOS R50 Camera 2L - Lavender,Electronics,MATCHED,519.78,286.44,233.34,44.89,MARGIN OK,34,15,396,430,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1011,JBL Flip 6 Bluetooth Speaker Studio,Electronics,MATCHED,140.56,47.71,92.85,66.06,MARGIN OK,61,15,305,366,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1012,Canon EOS R50 Camera - Olive,Electronics,MATCHED,575.18,220.68,354.5,61.63,MARGIN OK,57,15,3,60,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1013,The Great Gatsby - Paperback Pack of 5,Books,MATCHED,,6.59,,,N/A Missing price data,85,15,229,314,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1014,Amazon Echo Dot 5th Gen Standard - Ivory,Electronics,MATCHED,51.31,17.75,33.56,65.41,MARGIN OK,83,15,22,105,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1015,Google Nest Hub 2nd Gen Pack of 5 - Lavender,Electronics,MATCHED,91.71,31.34,60.37,65.83,MARGIN OK,31,15,72,103,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1016,Artificial Monstera Plant Essential,Home,MATCHED,29.72,10.6,19.12,64.33,MARGIN OK,94,15,464,558,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1017,Arduino Uno R4 WiFi - Teal,Electronics,MATCHED,26.08,8.07,18.01,69.06,MARGIN OK,36,15,466,502,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1018,Logitech C920 HD Webcam 750ml,Electronics,MATCHED,74.79,36.93,37.86,50.62,MARGIN OK,46,15,244,290,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1019,Baby Einstein Activity Gym Ultra - Gray,Toys,MATCHED,41.39,17.36,24.03,58.06,MARGIN OK,42,15,428,470,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1020,Philips Hue White Bulb Pack of 5 - White,Electronics,MATCHED,16.56,5.27,11.29,68.18,MARGIN OK,15,15,156,171,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1021,Fitbit Charge 6 Digital,Electronics,MATCHED,148.07,67.31,80.76,54.54,MARGIN OK,86,15,410,496,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1022,Cotton Crew Neck T-Shirt - Graphite,Clothing,MATCHED,18.94,9.8,9.14,48.26,MARGIN OK,81,15,420,501,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1023,Nintendo Switch OLED Small,Electronics,MATCHED,349.0,200.33,148.67,42.6,MARGIN OK,78,15,269,347,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1024,Steam Deck OLED 512GB Analog - Ivory,Electronics,MATCHED,549.0,241.12,307.88,56.08,MARGIN OK,2,15,491,493,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1025,Giro Bicycle Helmet 400g - Slate,Sports,MATCHED,67.73,29.93,37.8,55.81,MARGIN OK,23,15,203,226,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1026,Cotton Crew Neck T-Shirt 2024 Edition,Clothing,MATCHED,23.91,16.78,7.13,29.82,MARGIN OK,39,15,330,369,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1027,Slim Fit Denim Jeans - Blue,Clothing,MATCHED,67.02,35.57,31.45,46.93,MARGIN OK,55,15,350,405,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1028,Google Nest Hub 2nd Gen 500ml,Electronics,MATCHED,90.96,49.33,41.63,45.77,MARGIN OK,36,15,407,443,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1029,Floral Summer Dress Plus - Beige,Clothing,MATCHED,74.6,44.76,29.84,40.0,MARGIN OK,76,15,455,531,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1030,Merino Wool Sweater 2L - Navy,Clothing,MATCHED,91.24,61.59,29.65,32.5,MARGIN OK,76,15,266,342,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1031,Aromatherapy Diffuser Home,Home,MATCHED,48.61,29.21,19.4,39.91,MARGIN OK,79,15,191,270,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1032,Cotton Athletic Socks 6-Pack - Teal,Clothing,MATCHED,14.75,8.09,6.66,45.15,MARGIN OK,97,15,433,530,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1033,Wool Beanie Hat One Size,Clothing,MATCHED,24.78,15.84,8.94,36.08,MARGIN OK,38,15,92,130,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1034,Weighted Blanket 7kg Studio - Red,Home,MATCHED,97.74,61.25,36.49,37.33,MARGIN OK,35,15,42,77,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1035,Genuine Leather Belt 400g - Cream,Clothing,MATCHED,62.73,44.61,18.12,28.89,MARGIN OK,3,15,336,339,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1036,Linen Button-Up Shirt Home,Clothing,MATCHED,43.17,18.04,25.13,58.21,MARGIN OK,95,15,171,266,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1037,Silk Blouse - White,Clothing,MATCHED,74.75,33.76,40.99,54.84,MARGIN OK,36,15,200,236,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1038,Running Sneakers Large,Clothing,MATCHED,108.93,76.01,32.92,30.22,MARGIN OK,79,15,370,449,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1039,Puffer Vest Comfort - Graphite,Clothing,MATCHED,87.97,44.47,43.5,49.45,MARGIN OK,96,15,293,389,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1040,Arduino Uno R4 WiFi Set of 2 - Charcoal,Electronics,MATCHED,24.98,16.25,8.73,34.95,MARGIN OK,3,15,8,11,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1041,Cargo Pants Classic,Clothing,MATCHED,46.36,17.85,28.51,61.5,MARGIN OK,4,15,45,49,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1042,Hooded Sweatshirt - Taupe,Clothing,MATCHED,65.67,44.28,21.39,32.57,MARGIN OK,21,15,186,207,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1043,Citrus Juicer Manual Small,Kitchen,MATCHED,17.75,5.43,12.32,69.41,MARGIN OK,94,15,180,274,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1044,Blazer Jacket Elite - Ivory,Clothing,MATCHED,104.89,78.55,26.34,25.11,MARGIN OK,59,15,207,266,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1045,Thermal Base Layer Top 200g - Burgundy,Clothing,MATCHED,37.07,40.78,-3.71,-10.01,CRITICAL Negative margin,89,15,370,459,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1046,Swim Trunks Standard,Clothing,MATCHED,26.64,17.87,8.77,32.92,MARGIN OK,32,15,30,62,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1047,Ballet Flats - Slate,Clothing,MATCHED,56.61,33.26,23.35,41.25,MARGIN OK,75,15,253,328,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1048,Denim Jacket Set of 4,Clothing,MATCHED,77.15,56.61,20.54,26.62,MARGIN OK,70,15,322,392,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1049,Electric Kettle 1.7L Home - Taupe,Kitchen,MATCHED,60.35,37.67,22.68,37.58,MARGIN OK,71,15,278,349,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1050,Polo Shirt Set of 4 - Cream,Clothing,MATCHED,35.47,18.36,17.11,48.24,MARGIN OK,14,15,90,104,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1051,Memory Foam Pillow Advanced,Home,MATCHED,46.38,17.12,29.26,63.09,MARGIN OK,81,15,274,355,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1052,Barbie Fashionistas Doll - Burgundy,Toys,MATCHED,20.23,10.12,10.11,49.98,MARGIN OK,20,15,384,404,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1053,Modern Table Lamp Pack of 5,Unknown,MATCHED,91.18,46.28,44.9,49.24,MARGIN OK,61,15,5,66,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1054,Persian Style Area Rug Performance - Blue,Home,MATCHED,164.37,59.28,105.09,63.94,MARGIN OK,64,15,98,162,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1055,National Geographic Science Kit 200g - Rose,Toys,MATCHED,51.76,16.02,35.74,69.05,MARGIN OK,38,15,409,447,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1056,Ceramic Decorative Vase Lite,Home,MATCHED,35.29,16.18,19.11,54.15,MARGIN OK,94,15,139,233,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1057,Minimalist Wall Clock - Black,Home,MATCHED,49.93,36.43,13.5,27.04,MARGIN OK,83,15,324,407,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1058,Baby Einstein Activity Gym 400g,Toys,MATCHED,,19.17,,,N/A Missing price data,77,15,55,132,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1059,Scented Soy Candle Studio - Blue,Home,MATCHED,19.7,11.38,8.32,42.23,MARGIN OK,94,15,261,355,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1060,Bamboo Drawer Organizer Set of 6 - Navy,Home,MATCHED,21.72,9.99,11.73,54.01,MARGIN OK,2,15,45,47,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1061,Stainless Steel Stock Pot Compact,Kitchen,MATCHED,56.69,60.67,-3.98,-7.02,CRITICAL Negative margin,19,15,459,478,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1062,Velvet Cushion Cover - Red,Home,MATCHED,26.34,8.0,18.34,69.63,MARGIN OK,27,15,274,301,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1063,Woven Laundry Basket Large,Home,MATCHED,42.85,20.13,22.72,53.02,MARGIN OK,30,15,0,30,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1064,Ninja Professional Blender Classic - Rose,Kitchen,MATCHED,118.06,72.3,45.76,38.76,MARGIN OK,32,15,206,238,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1065,Glass Photo Frame 20x25 Set of 2 - Gray,Home,MATCHED,27.88,8.73,19.15,68.69,MARGIN OK,68,15,165,233,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1066,Artificial Monstera Plant Signature,Home,MATCHED,45.89,19.19,26.7,58.18,MARGIN OK,65,15,241,306,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1067,Cycling Jersey - Ivory,Sports,MATCHED,62.61,19.71,42.9,68.52,MARGIN OK,31,15,287,318,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1068,LED Strip Lights 5m Set of 4,Home,MATCHED,25.64,11.56,14.08,54.91,MARGIN OK,59,15,178,237,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1069,Shoe Storage Cabinet Digital - Rose,Home,MATCHED,83.27,25.87,57.4,68.93,MARGIN OK,14,15,325,339,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1070,Woven Laundry Basket X-Large - White,Home,MATCHED,26.33,19.39,6.94,26.36,MARGIN OK,21,15,452,473,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1071,Kitchen Wall Shelf Plus,Home,MATCHED,33.09,24.27,8.82,26.65,MARGIN OK,57,15,32,89,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1072,Decorative Throw Pillow - Burgundy,Home,MATCHED,,24.08,,,N/A Missing price data,33,15,347,380,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1073,Funko Pop! Vinyl Figure 28cm,Toys,MATCHED,15.4,5.94,9.46,61.43,MARGIN OK,44,15,342,386,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1074,Aromatherapy Diffuser Standard - Gray,Home,MATCHED,45.92,18.63,27.29,59.43,MARGIN OK,61,15,40,101,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1075,Underbed Storage Box X-Large - Burgundy,Home,MATCHED,20.93,14.05,6.88,32.87,MARGIN OK,40,15,321,361,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1076,Ninja Professional Blender Classic,Kitchen,MATCHED,91.5,29.8,61.7,67.43,MARGIN OK,58,15,265,323,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1077,Stainless Steel Stock Pot - Rose,Kitchen,MATCHED,84.98,40.3,44.68,52.58,MARGIN OK,25,15,156,181,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1078,Damascus Knife Set 3pcs 30cm,Kitchen,MATCHED,72.52,26.53,45.99,63.42,MARGIN OK,30,15,335,365,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1079,Merino Wool Sweater Essential - Gray,Clothing,MATCHED,85.52,55.38,30.14,35.24,MARGIN OK,85,15,149,234,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1080,Ninja Professional Blender 2L - Rose,Kitchen,MATCHED,98.78,64.13,34.65,35.08,MARGIN OK,76,15,199,275,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1081,Retro 2-Slice Toaster Standard,Kitchen,MATCHED,74.34,34.63,39.71,53.42,MARGIN OK,90,15,273,363,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1082,Gym Duffel Bag 40L - Rose,Sports,MATCHED,63.07,46.59,16.48,26.13,MARGIN OK,71,15,264,335,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1083,Porcelain Dinner Plate Set Pack of 5,Kitchen,MATCHED,67.94,24.04,43.9,64.62,MARGIN OK,37,15,85,122,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1084,Ceramic Coffee Mug 400ml Advanced - Rose,Kitchen,MATCHED,14.65,9.8,4.85,33.11,MARGIN OK,16,15,197,213,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1085,Samsung 1TB Portable SSD Medium - Ivory,Electronics,MATCHED,89.18,44.1,45.08,50.55,MARGIN OK,62,15,379,441,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1086,Cast Iron Dutch Oven Essential,Kitchen,MATCHED,142.36,51.42,90.94,63.88,MARGIN OK,41,15,342,383,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1087,Glass Food Storage Set - Black,Kitchen,MATCHED,43.86,13.56,30.3,69.08,MARGIN OK,40,15,230,270,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1088,Baby Einstein Activity Gym 200g,Toys,MATCHED,41.81,28.93,12.88,30.81,MARGIN OK,13,15,378,391,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1089,Pasta Maker Machine 2024 Edition - Blue,Kitchen,MATCHED,84.02,52.43,31.59,37.6,MARGIN OK,23,15,364,387,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1090,Espresso Cups Set of 4 500ml - Lavender,Kitchen,MATCHED,24.51,14.73,9.78,39.9,MARGIN OK,17,15,155,172,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1091,Arduino Uno R4 WiFi Essential,Electronics,MATCHED,26.87,13.25,13.62,50.69,MARGIN OK,84,15,396,480,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1092,Meat Thermometer Digital - Coral,Kitchen,MATCHED,25.79,8.06,17.73,68.75,MARGIN OK,87,15,267,354,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1093,Kitchen Scale Digital 400g,Kitchen,MATCHED,22.81,10.18,12.63,55.37,MARGIN OK,70,15,264,334,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1094,The Great Gatsby - Paperback Advanced - Coral,Books,MATCHED,12.37,14.64,-2.27,-18.35,CRITICAL Negative margin,14,15,70,84,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1095,Rice Cooker 1.8L X-Large - Red,Kitchen,MATCHED,58.07,26.4,31.67,54.54,MARGIN OK,35,15,53,88,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1096,Pepper Mill Wooden Analog,Kitchen,MATCHED,27.63,15.07,12.56,45.46,MARGIN OK,94,15,188,282,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1097,Wool Beanie Hat - Taupe,Clothing,MATCHED,16.34,6.63,9.71,59.42,MARGIN OK,26,15,291,317,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1098,Colander Stainless Steel 2L,Kitchen,MATCHED,24.74,11.21,13.53,54.69,MARGIN OK,6,15,139,145,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1099,Citrus Juicer Manual Mini - Coral,Kitchen,MATCHED,19.18,13.78,5.4,28.15,MARGIN OK,45,15,124,169,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1100,Weighted Hula Hoop 30cm - Slate,Sports,MATCHED,27.5,10.77,16.73,60.84,MARGIN OK,76,15,164,240,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1101,Premium Yoga Mat 6mm Max,Sports,MATCHED,28.49,11.94,16.55,58.09,MARGIN OK,98,15,22,120,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1102,Adjustable Dumbbell 20kg - Blue,Sports,MATCHED,73.01,52.73,20.28,27.78,MARGIN OK,45,15,41,86,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1103,The Da Vinci Code 2L,Books,MATCHED,14.66,10.73,3.93,26.81,MARGIN OK,21,15,258,279,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1104,Insulated Water Bottle 750ml Smart - Rose,Sports,MATCHED,19.78,7.71,12.07,61.02,MARGIN OK,88,15,456,544,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1105,Resistance Bands Set 32cm - Blue,Sports,MATCHED,15.97,11.22,4.75,29.74,MARGIN OK,50,15,99,149,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1106,Crayola Ultimate Art Set Studio,Toys,MATCHED,38.52,16.21,22.31,57.92,MARGIN OK,13,15,118,131,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1107,Adidas FIFA Football - Teal,Sports,MATCHED,43.84,14.83,29.01,66.17,MARGIN OK,71,15,162,233,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1108,Gym Duffel Bag 40L 400g,Sports,MATCHED,78.06,26.36,51.7,66.23,MARGIN OK,98,15,283,381,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1109,Pride and Prejudice Max - Navy,Books,MATCHED,10.83,6.68,4.15,38.32,MARGIN OK,93,15,475,568,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1110,Speed Jump Rope Set of 6 - Green,Unknown,MATCHED,15.83,11.12,4.71,29.75,MARGIN OK,57,15,478,535,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1111,Foam Roller 2024 Edition,Sports,MATCHED,26.71,14.43,12.28,45.98,MARGIN OK,52,15,402,454,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1112,Kitchen Wall Shelf - Taupe,Home,MATCHED,40.93,28.89,12.04,29.42,MARGIN OK,24,15,252,276,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1113,Swim Goggles Anti-Fog 750ml,Sports,MATCHED,19.65,12.35,7.3,37.15,MARGIN OK,89,15,397,486,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1114,Cycling Jersey Pro - Charcoal,Sports,MATCHED,55.5,17.35,38.15,68.74,MARGIN OK,61,15,365,426,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1115,Velvet Cushion Cover X-Large - Coral,Home,MATCHED,,16.41,,,N/A Missing price data,43,15,295,338,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1116,Boxing Gloves 12oz Compact,Sports,MATCHED,31.24,21.56,9.68,30.99,MARGIN OK,68,15,174,242,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1117,Pull-Up Bar Doorway - Lavender,Sports,MATCHED,40.96,19.58,21.38,52.2,MARGIN OK,92,15,114,206,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1118,LEGO Star Wars X-Wing 28cm,Toys,MATCHED,53.0,35.94,17.06,32.19,MARGIN OK,26,15,473,499,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1119,Soccer Shin Guards Smart - Red,Sports,MATCHED,22.03,7.86,14.17,64.32,MARGIN OK,12,15,325,337,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1120,Trekking Poles Pair 200g - Red,Sports,MATCHED,48.56,14.7,33.86,69.73,MARGIN OK,85,15,406,491,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1121,Tatcha Dewy Skin Cream Travel,Beauty,MATCHED,70.94,46.52,24.42,34.42,MARGIN OK,81,15,311,392,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1122,Weighted Hula Hoop - Blue,Sports,MATCHED,33.76,24.87,8.89,26.33,MARGIN OK,50,15,175,225,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1123,Sports Watch Digital 750ml,Sports,MATCHED,43.59,26.73,16.86,38.68,MARGIN OK,9,15,62,71,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1124,Playmobil Pirate Ship Elite - Charcoal,Toys,MATCHED,67.14,41.03,26.11,38.89,MARGIN OK,98,15,184,282,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1125,Golf Putter Small - Olive,Sports,MATCHED,96.9,66.64,30.26,31.23,MARGIN OK,22,15,185,207,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1126,Kérastase Shampoo 250ml Premium,Beauty,MATCHED,,21.47,,,N/A Missing price data,72,15,438,510,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1127,Espresso Cups Set of 4 - White,Kitchen,MATCHED,26.3,12.87,13.43,51.06,MARGIN OK,76,15,183,259,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1128,La Roche-Posay Moisturizer 400g,Beauty,MATCHED,37.23,14.8,22.43,60.25,MARGIN OK,72,15,229,301,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1129,The Ordinary Niacinamide Serum Premium - Slate,Beauty,MATCHED,12.8,6.58,6.22,48.59,MARGIN OK,46,15,385,431,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1130,Garmin Forerunner 265 Smartwatch 500ml - Burgundy,Electronics,MATCHED,437.44,163.71,273.73,62.58,MARGIN OK,5,15,92,97,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1131,MAC Matte Lipstick Travel,Beauty,MATCHED,26.44,12.48,13.96,52.8,MARGIN OK,100,15,412,512,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1132,Estée Lauder Double Wear Foundation - Cream,Beauty,MATCHED,44.36,14.55,29.81,67.2,MARGIN OK,11,15,212,223,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1133,Keychron K2 Mechanical Keyboard Set of 4,Electronics,MATCHED,124.91,58.57,66.34,53.11,MARGIN OK,7,15,135,142,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1134,OPI Nail Polish Advanced - Cream,Beauty,MATCHED,17.08,20.94,-3.86,-22.6,CRITICAL Negative margin,41,15,89,130,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1135,Dyson Supersonic Hair Dryer 30cm - Burgundy,Beauty,MATCHED,428.52,275.37,153.15,35.74,MARGIN OK,92,15,192,284,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1136,Spalding NBA Basketball Eco,Toys,MATCHED,23.88,11.12,12.76,53.43,MARGIN OK,35,15,471,506,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1137,CeraVe Hydrating Cleanser - Graphite,Beauty,MATCHED,15.73,7.01,8.72,55.44,MARGIN OK,7,15,465,472,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1138,Sunday Riley Good Genes Serum Set of 4,Beauty,MATCHED,104.81,43.96,60.85,58.06,MARGIN OK,41,15,419,460,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1139,Bamboo Drawer Organizer Essential - Slate,Home,MATCHED,25.03,14.33,10.7,42.75,MARGIN OK,89,15,28,117,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1140,NARS Radiant Creamy Concealer 200g - Lavender,Beauty,MATCHED,31.67,22.96,8.71,27.5,MARGIN OK,77,15,26,103,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1141,Olaplex No. 3 Treatment Analog,Beauty,MATCHED,,15.82,,,N/A Missing price data,34,15,152,186,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1142,Fisher-Price Rock-a-Stack - Black,Unknown,MATCHED,16.38,5.78,10.6,64.71,MARGIN OK,100,15,293,393,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1143,Charlotte Tilbury Pillow Talk Lipstick 28cm,Beauty,MATCHED,32.86,21.18,11.68,35.54,MARGIN OK,62,15,361,423,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1144,Drunk Elephant C-Firma Day Serum Ultra - White,Beauty,MATCHED,69.42,30.97,38.45,55.39,MARGIN OK,28,15,331,359,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1145,Bose QuietComfort Earbuds II Set of 6 - White,Electronics,MATCHED,296.24,148.25,147.99,49.96,MARGIN OK,10,15,430,440,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1146,Bioderma Micellar Water 500ml Analog,Beauty,MATCHED,15.77,8.0,7.77,49.27,MARGIN OK,0,15,292,292,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-1147,Urban Decay Naked Eyeshadow Palette - Beige,Beauty,MATCHED,53.04,24.12,28.92,54.52,MARGIN OK,98,15,485,583,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1148,Cargo Pants Set of 2,Clothing,MATCHED,57.41,35.06,22.35,38.93,MARGIN OK,56,15,0,56,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1149,Laura Mercier Translucent Powder 2024 Edition - White,Beauty,MATCHED,39.85,22.27,17.58,44.12,MARGIN OK,44,15,472,516,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1150,Jo Malone London Candle 500ml - Gray,Beauty,MATCHED,65.97,27.96,38.01,57.62,MARGIN OK,48,15,488,536,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1151,Google Nest Hub 2nd Gen XL,Electronics,MATCHED,92.04,29.63,62.41,67.81,MARGIN OK,29,15,63,92,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1152,"Salt, Fat, Acid, Heat - Cookbook - Graphite",Books,MATCHED,34.81,10.75,24.06,69.12,MARGIN OK,45,15,338,383,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1153,Introduction to Algorithms - Hardcover One Size,Books,MATCHED,88.72,46.44,42.28,47.66,MARGIN OK,48,15,67,115,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1154,Nintendo Switch OLED Advanced - Navy,Electronics,MATCHED,349.0,179.66,169.34,48.52,MARGIN OK,33,15,21,54,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1155,The Very Hungry Caterpillar Pack of 3 - Slate,Books,MATCHED,11.77,6.8,4.97,42.23,MARGIN OK,26,15,277,303,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1156,Leuchtturm1917 Bullet Journal Studio,Books,MATCHED,23.92,8.7,15.22,63.63,MARGIN OK,36,15,445,481,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1157,Schleich Horse Stable Playset - Graphite,Toys,MATCHED,66.15,30.85,35.3,53.36,MARGIN OK,98,15,482,580,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1158,National Geographic Atlas 32cm,Books,MATCHED,35.16,14.04,21.12,60.07,MARGIN OK,20,15,442,462,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1159,Milk and Honey Poetry Collection Eco - Green,Books,MATCHED,15.67,5.22,10.45,66.69,MARGIN OK,7,15,258,265,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1160,Magna-Tiles 32-Piece Set Set of 6 - Red,Toys,MATCHED,54.17,38.18,15.99,29.52,MARGIN OK,31,15,454,485,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1161,Sapiens: A Brief History of Humankind Plus,Books,MATCHED,16.7,9.53,7.17,42.93,MARGIN OK,51,15,484,535,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1162,Atomic Habits - Hardcover - Blue,Books,MATCHED,20.15,8.66,11.49,57.02,MARGIN OK,21,15,297,318,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1163,Harry Potter Complete Box Set Pack of 5,Books,MATCHED,67.26,47.45,19.81,29.45,MARGIN OK,25,15,7,32,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1164,Harry Potter Complete Box Set Home - Lavender,Books,MATCHED,62.46,27.75,34.71,55.57,MARGIN OK,74,15,197,271,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1165,Steve Jobs Biography 500ml - Ivory,Books,MATCHED,21.45,23.55,-2.1,-9.79,CRITICAL Negative margin,59,15,454,513,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1166,Citrus Juicer Manual Pro,Kitchen,MATCHED,19.94,6.54,13.4,67.2,MARGIN OK,9,15,129,138,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1167,1984 - George Orwell - Lavender,Books,MATCHED,11.04,5.94,5.1,46.2,MARGIN OK,54,15,213,267,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1168,The Hobbit - Illustrated 1L,Books,MATCHED,25.62,11.81,13.81,53.9,MARGIN OK,54,15,22,76,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1169,Baby Einstein Activity Gym Digital - Gray,Toys,MATCHED,42.8,24.53,18.27,42.69,MARGIN OK,47,15,254,301,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1170,The Da Vinci Code 28cm - Burgundy,Books,MATCHED,14.53,16.0,-1.47,-10.12,CRITICAL Negative margin,71,15,101,172,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1171,"Thinking, Fast and Slow Mini",Books,MATCHED,16.37,5.34,11.03,67.38,MARGIN OK,40,15,268,308,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1172,Ceramic Coffee Mug 400ml - Slate,Kitchen,MATCHED,18.98,7.11,11.87,62.54,MARGIN OK,15,15,377,392,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1173,Rich Dad Poor Dad 30cm,Books,MATCHED,16.55,11.87,4.68,28.28,MARGIN OK,38,15,429,467,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1174,The Four Agreements XL - Teal,Books,MATCHED,13.1,5.94,7.16,54.66,MARGIN OK,76,15,255,331,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1175,Woven Laundry Basket Small - Rose,Home,MATCHED,32.19,22.2,9.99,31.03,MARGIN OK,63,15,239,302,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1176,Ravensburger 1000pc Puzzle Classic,Toys,MATCHED,21.44,8.59,12.85,59.93,MARGIN OK,92,15,270,362,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1177,Catan Board Game - White,Toys,MATCHED,40.11,13.7,26.41,65.84,MARGIN OK,99,15,226,325,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1178,Citrus Juicer Manual Set of 4,Kitchen,MATCHED,16.93,9.75,7.18,42.41,MARGIN OK,74,15,285,359,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1179,Marvel Legends Action Figure Plus - Olive,Toys,MATCHED,25.21,10.73,14.48,57.44,MARGIN OK,82,15,99,181,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1180,LEGO Classic Creative Bricks Large - Gray,Toys,MATCHED,38.19,20.41,17.78,46.56,MARGIN OK,7,15,472,479,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1181,Damascus Knife Set 3pcs Max,Kitchen,MATCHED,77.54,25.63,51.91,66.95,MARGIN OK,79,15,480,559,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1182,Traxxas RC Monster Truck - Gray,Toys,MATCHED,145.51,69.35,76.16,52.34,MARGIN OK,42,15,408,450,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1183,Crayola Ultimate Art Set 32cm,Toys,MATCHED,38.21,25.07,13.14,34.39,MARGIN OK,29,15,56,85,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1184,Espresso Cups Set of 4 Plus - Navy,Kitchen,MATCHED,23.83,7.79,16.04,67.31,MARGIN OK,45,15,221,266,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1185,Spalding NBA Basketball 32cm - Black,Toys,MATCHED,28.32,18.2,10.12,35.73,MARGIN OK,88,15,223,311,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1186,Hot Wheels 20-Car Gift Pack Plus,Toys,MATCHED,28.33,15.09,13.24,46.73,MARGIN OK,38,15,78,116,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1187,Golf Putter - Graphite,Sports,MATCHED,76.97,40.17,36.8,47.81,MARGIN OK,98,15,99,197,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1188,Fisher-Price Rock-a-Stack 400g,Toys,MATCHED,16.91,12.15,4.76,28.15,MARGIN OK,19,15,500,519,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1189,Nerf Elite Disruptor Blaster Smart - Green,Toys,MATCHED,20.21,8.26,11.95,59.13,MARGIN OK,0,15,19,19,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-1190,Catan Board Game One Size - Charcoal,Toys,MATCHED,44.5,18.25,26.25,58.99,MARGIN OK,73,15,106,179,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1191,Monopoly Classic Board Game Lite,Toys,MATCHED,25.04,8.34,16.7,66.69,MARGIN OK,47,15,474,521,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1192,Rubik's Cube 3x3 - Burgundy,Toys,MATCHED,14.01,5.14,8.87,63.31,MARGIN OK,65,15,211,276,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1193,Magna-Tiles 32-Piece Set Large,Toys,MATCHED,52.07,31.0,21.07,40.46,MARGIN OK,59,15,280,339,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1194,Funko Pop! Vinyl Figure Home - Rose,Toys,MATCHED,15.12,5.19,9.93,65.67,MARGIN OK,38,15,473,511,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1195,Playmobil Pirate Ship 400g - Navy,Toys,MATCHED,66.05,47.8,18.25,27.63,MARGIN OK,19,15,374,393,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1196,Glass Photo Frame 20x25 Performance,Home,MATCHED,17.79,12.44,5.35,30.07,MARGIN OK,82,15,436,518,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1197,Baby Einstein Activity Gym - Burgundy,Toys,MATCHED,46.73,23.18,23.55,50.4,MARGIN OK,26,15,149,175,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1198,Magna-Tiles 32-Piece Set One Size,Toys,MATCHED,49.21,35.29,13.92,28.29,MARGIN OK,20,15,155,175,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1199,Yoga Leggings Elite - Coral,Clothing,MATCHED,49.12,17.23,31.89,64.92,MARGIN OK,12,15,343,355,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1200,VTech Kidizoom Camera 500ml - Slate,Toys,MATCHED,46.13,27.19,18.94,41.06,MARGIN OK,85,15,166,251,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1201,Apple iPhone 15 Elite,Electronics,MATCHED,822.54,258.05,564.49,68.63,MARGIN OK,18,15,13,31,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1202,Shoe Storage Cabinet - Taupe,Home,MATCHED,90.19,57.44,32.75,36.31,MARGIN OK,0,15,402,402,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-1203,Sony WH-1000XM5 Headphones Pack of 3,Electronics,MATCHED,367.31,135.46,231.85,63.12,MARGIN OK,52,15,115,167,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1204,Logitech MX Master 3S Mouse Lite - White,Electronics,MATCHED,98.23,47.78,50.45,51.36,MARGIN OK,76,15,261,337,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1205,Garmin Forerunner 265 Smartwatch 400g - Navy,Electronics,MATCHED,362.27,216.67,145.6,40.19,MARGIN OK,26,15,222,248,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1206,Dell UltraSharp 27 Monitor Signature,Electronics,MATCHED,476.03,204.22,271.81,57.1,MARGIN OK,68,15,96,164,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1207,Apple iPad Air - Navy,Electronics,MATCHED,643.82,234.83,408.99,63.53,MARGIN OK,94,15,462,556,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1208,Wool Beanie Hat 32cm,Clothing,MATCHED,17.24,9.03,8.21,47.62,MARGIN OK,94,15,21,115,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1209,Anker 65W USB-C Charger Standard - Burgundy,Electronics,MATCHED,40.72,17.47,23.25,57.1,MARGIN OK,7,15,243,250,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1210,Apple Lightning Cable 2m 28cm - Black,Electronics,MATCHED,21.86,13.75,8.11,37.1,MARGIN OK,73,15,467,540,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1211,Steve Jobs Biography 2024 Edition,Books,MATCHED,22.45,7.81,14.64,65.21,MARGIN OK,21,15,62,83,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1212,Canon EOS R50 Camera - Cream,Electronics,MATCHED,546.05,226.47,319.58,58.53,MARGIN OK,2,15,441,443,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1213,Samsung 1TB Portable SSD Medium,Electronics,MATCHED,112.33,51.54,60.79,54.12,MARGIN OK,90,15,314,404,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1214,Stainless Steel Stock Pot Max - Graphite,Kitchen,MATCHED,45.88,14.12,31.76,69.22,MARGIN OK,36,15,266,302,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1215,Google Nest Hub 2nd Gen Set of 4 - Cream,Electronics,MATCHED,95.41,43.78,51.63,54.11,MARGIN OK,38,15,185,223,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1216,Raspberry Pi 5 8GB Elite,Unknown,MATCHED,81.38,32.23,49.15,60.4,MARGIN OK,36,15,479,515,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1217,"Thinking, Fast and Slow - Red",Books,MATCHED,16.07,5.33,10.74,66.83,MARGIN OK,60,15,260,320,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1218,Logitech C920 HD Webcam 28cm,Electronics,MATCHED,82.91,55.83,27.08,32.66,MARGIN OK,32,15,385,417,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1219,TP-Link Archer AX3000 Router Compact - Red,Electronics,MATCHED,166.92,57.2,109.72,65.73,MARGIN OK,97,15,340,437,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1220,Espresso Cups Set of 4 Pack of 5 - Taupe,Kitchen,MATCHED,24.26,10.82,13.44,55.4,MARGIN OK,5,15,42,47,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1221,Fitbit Charge 6 Digital,Electronics,MATCHED,137.29,89.41,47.88,34.88,MARGIN OK,58,15,105,163,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1222,Bose QuietComfort Earbuds II - Graphite,Electronics,MATCHED,263.03,192.45,70.58,26.83,MARGIN OK,62,15,92,154,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1223,Baby Einstein Activity Gym 32cm,Toys,MATCHED,42.06,20.54,21.52,51.17,MARGIN OK,36,15,448,484,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1224,Steam Deck OLED 512GB XL - Cream,Electronics,MATCHED,549.0,228.99,320.01,58.29,MARGIN OK,24,15,435,459,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1225,Apple AirPods Pro 2 Set of 6 - Blue,Electronics,MATCHED,249.0,171.37,77.63,31.18,MARGIN OK,9,15,83,92,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1226,Scented Soy Candle Smart,Home,MATCHED,20.3,13.3,7.0,34.48,MARGIN OK,93,15,44,137,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1227,Slim Fit Denim Jeans - White,Clothing,MATCHED,66.81,30.0,36.81,55.1,MARGIN OK,75,15,50,125,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1228,Waterproof Winter Jacket Large,Clothing,MATCHED,178.53,65.32,113.21,63.41,MARGIN OK,57,15,234,291,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1229,Monopoly Classic Board Game Analog - Green,Toys,MATCHED,25.09,12.38,12.71,50.66,MARGIN OK,28,15,102,130,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1230,Merino Wool Sweater 32cm - Beige,Clothing,MATCHED,70.49,42.12,28.37,40.25,MARGIN OK,68,15,30,98,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1231,Leather Ankle Boots Smart,Clothing,MATCHED,140.97,45.87,95.1,67.46,MARGIN OK,92,15,58,150,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1232,Sunday Riley Good Genes Serum - Beige,Beauty,MATCHED,104.97,53.28,51.69,49.24,MARGIN OK,99,15,46,145,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1233,Wool Beanie Hat 32cm,Clothing,MATCHED,16.04,5.94,10.1,62.97,MARGIN OK,10,15,21,31,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1234,Cashmere Scarf Eco - Red,Clothing,MATCHED,53.0,24.46,28.54,53.85,MARGIN OK,29,15,489,518,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1235,Baseball Bat Aluminum Medium - Charcoal,Sports,MATCHED,67.16,44.69,22.47,33.46,MARGIN OK,74,15,105,179,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1236,Linen Button-Up Shirt Mini,Clothing,MATCHED,36.83,24.59,12.24,33.23,MARGIN OK,31,15,0,31,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1237,Chino Shorts - Cream,Clothing,MATCHED,36.06,23.55,12.51,34.69,MARGIN OK,93,15,174,267,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1238,Colander Stainless Steel 28cm,Kitchen,MATCHED,26.94,16.22,10.72,39.79,MARGIN OK,30,15,45,75,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1239,Puffer Vest Mini - Navy,Clothing,MATCHED,84.52,51.04,33.48,39.61,MARGIN OK,92,15,149,241,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1240,Silk Blouse One Size - Blue,Clothing,MATCHED,48.51,21.7,26.81,55.27,MARGIN OK,53,15,205,258,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1241,Raspberry Pi 5 8GB Performance,Electronics,MATCHED,80.45,36.64,43.81,54.46,MARGIN OK,40,15,117,157,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1242,Hooded Sweatshirt - Olive,Clothing,MATCHED,66.41,44.27,22.14,33.34,MARGIN OK,45,15,29,74,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1243,Pleated Midi Skirt Pack of 3,Clothing,MATCHED,58.09,31.81,26.28,45.24,MARGIN OK,67,15,56,123,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1244,Gone Girl - Thriller Travel - Taupe,Books,MATCHED,15.8,11.33,4.47,28.29,MARGIN OK,6,15,147,153,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1245,Thermal Base Layer Top Set of 2 - Graphite,Clothing,MATCHED,31.53,12.79,18.74,59.44,MARGIN OK,74,15,285,359,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1246,Swim Trunks Max,Clothing,MATCHED,34.03,22.35,11.68,34.32,MARGIN OK,8,15,401,409,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1247,Melissa & Doug Wooden Train Set - Burgundy,Toys,MATCHED,56.13,39.19,16.94,30.18,MARGIN OK,92,15,458,550,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1248,Denim Jacket Small,Clothing,MATCHED,93.61,60.41,33.2,35.47,MARGIN OK,44,15,440,484,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1249,Yoga Leggings Signature - Teal,Clothing,MATCHED,42.86,29.79,13.07,30.49,MARGIN OK,89,15,278,367,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1250,Slim Fit Denim Jeans 500ml - Coral,Clothing,MATCHED,74.85,31.32,43.53,58.16,MARGIN OK,76,15,215,291,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1251,Memory Foam Pillow 2024 Edition,Home,MATCHED,41.11,30.4,10.71,26.05,MARGIN OK,71,15,284,355,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1252,Fleece Throw Blanket - Slate,Home,MATCHED,42.71,19.88,22.83,53.45,MARGIN OK,75,15,320,395,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1253,Wilson Tennis Racket Small,Sports,MATCHED,73.6,26.39,47.21,64.14,MARGIN OK,87,15,213,300,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1254,Persian Style Area Rug Home - Olive,Home,MATCHED,182.88,127.02,55.86,30.54,MARGIN OK,52,15,308,360,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1255,Blackout Curtains Pair 500ml - Burgundy,Home,MATCHED,64.13,27.59,36.54,56.98,MARGIN OK,52,15,160,212,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1256,Ceramic Decorative Vase Elite,Home,MATCHED,56.33,34.4,21.93,38.93,MARGIN OK,5,15,1,6,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1257,Minimalist Wall Clock - Ivory,Home,MATCHED,44.0,29.05,14.95,33.98,MARGIN OK,46,15,259,305,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1258,Round Wall Mirror 60cm X-Large,Home,MATCHED,96.19,61.7,34.49,35.86,MARGIN OK,34,15,331,365,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1259,Dyson Supersonic Hair Dryer Comfort - Navy,Beauty,MATCHED,411.92,175.47,236.45,57.4,MARGIN OK,68,15,193,261,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1260,Bamboo Drawer Organizer Large - Olive,Home,MATCHED,30.93,19.3,11.63,37.6,MARGIN OK,55,15,312,367,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1261,Weighted Blanket 7kg Essential,Home,MATCHED,104.23,46.54,57.69,55.35,MARGIN OK,72,15,440,512,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1262,Blackout Curtains Pair - Black,Home,MATCHED,59.03,20.49,38.54,65.29,MARGIN OK,4,15,305,309,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1263,Woven Laundry Basket Set of 4,Home,MATCHED,31.86,23.27,8.59,26.96,MARGIN OK,59,15,273,332,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1264,Digital Alarm Clock Digital - Graphite,Home,MATCHED,32.28,12.57,19.71,61.06,MARGIN OK,77,15,325,402,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1265,Oven Mitts Pair 200g - Ivory,Kitchen,MATCHED,15.63,9.56,6.07,38.84,MARGIN OK,24,15,98,122,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1266,Artificial Monstera Plant 2024 Edition,Home,MATCHED,39.46,15.48,23.98,60.77,MARGIN OK,61,15,183,244,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1267,Wooden Coat Rack - Olive,Home,MATCHED,60.09,29.58,30.51,50.77,MARGIN OK,57,15,246,303,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1268,Olaplex No. 3 Treatment Set of 6,Beauty,MATCHED,31.88,13.63,18.25,57.25,MARGIN OK,43,15,455,498,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1269,Shoe Storage Cabinet Analog - Olive,Home,MATCHED,60.65,33.28,27.37,45.13,MARGIN OK,40,15,278,318,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1270,Microfiber Duvet Cover Large - Black,Home,MATCHED,64.11,23.95,40.16,62.64,MARGIN OK,96,15,13,109,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1271,Ninja Professional Blender Ultra,Kitchen,MATCHED,124.69,52.02,72.67,58.28,MARGIN OK,93,15,15,108,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1272,Decorative Throw Pillow - Cream,Home,MATCHED,22.5,14.49,8.01,35.6,MARGIN OK,86,15,461,547,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1273,Bamboo Bath Mat Large,Home,MATCHED,37.29,21.68,15.61,41.86,MARGIN OK,83,15,82,165,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1274,Electric Kettle 1.7L Essential - Coral,Kitchen,MATCHED,60.94,39.67,21.27,34.9,MARGIN OK,39,15,187,226,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1275,Underbed Storage Box 2L - Rose,Home,MATCHED,19.71,7.55,12.16,61.69,MARGIN OK,53,15,69,122,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1276,Non-Stick Frying Pan 28cm Analog,Kitchen,MATCHED,47.62,35.71,11.91,25.01,MARGIN OK,93,15,309,402,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1277,Non-Stick Frying Pan 28cm - Navy,Kitchen,MATCHED,62.06,21.45,40.61,65.44,MARGIN OK,97,15,62,159,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1278,Damascus Knife Set 3pcs 30cm,Kitchen,MATCHED,61.78,43.35,18.43,29.83,MARGIN OK,84,15,37,121,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1279,Bamboo Cutting Board Compact - Teal,Kitchen,MATCHED,28.68,13.26,15.42,53.77,MARGIN OK,5,15,468,473,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1280,Dune - Frank Herbert Medium - Cream,Books,MATCHED,16.75,6.95,9.8,58.51,MARGIN OK,62,15,66,128,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1281,Retro 2-Slice Toaster Compact,Kitchen,MATCHED,76.12,31.47,44.65,58.66,MARGIN OK,80,15,47,127,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1282,Breville Barista Express - Ivory,Kitchen,MATCHED,493.56,242.43,251.13,50.88,MARGIN OK,14,15,265,279,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1283,Chanel No. 5 Eau de Parfum Pack of 3,Beauty,MATCHED,124.82,148.54,-23.72,-19.0,CRITICAL Negative margin,91,15,442,533,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1284,Ceramic Coffee Mug 400ml Digital - Black,Kitchen,MATCHED,18.11,6.41,11.7,64.61,MARGIN OK,67,15,0,67,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1285,Silicone Spatula Set 2L - Charcoal,Kitchen,MATCHED,17.96,6.37,11.59,64.53,MARGIN OK,13,15,469,482,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1286,Stainless Steel Stock Pot Studio,Kitchen,MATCHED,70.79,31.74,39.05,55.16,MARGIN OK,72,15,409,481,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1287,Glass Food Storage Set - Navy,Kitchen,MATCHED,30.4,20.08,10.32,33.95,MARGIN OK,88,15,443,531,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1288,Electric Kettle 1.7L 1L,Kitchen,MATCHED,42.57,27.37,15.2,35.71,MARGIN OK,33,15,336,369,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1289,Pleated Midi Skirt Compact - Teal,Clothing,MATCHED,36.15,15.86,20.29,56.13,MARGIN OK,60,15,489,549,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1290,Espresso Cups Set of 4 28cm - Charcoal,Kitchen,MATCHED,26.09,10.59,15.5,59.41,MARGIN OK,10,15,47,57,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1291,Salad Spinner Home,Kitchen,MATCHED,15.06,10.28,4.78,31.74,MARGIN OK,75,15,317,392,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1292,Digital Alarm Clock - Teal,Home,MATCHED,25.24,8.72,16.52,65.45,MARGIN OK,11,15,392,403,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1293,Kitchen Scale Digital 750ml,Kitchen,MATCHED,24.31,12.12,12.19,50.14,MARGIN OK,19,15,198,217,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1294,Air Fryer 5.5L Advanced - Teal,Kitchen,MATCHED,119.03,79.5,39.53,33.21,MARGIN OK,29,15,453,482,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1295,Wilson Tennis Racket Pack of 3 - White,Sports,MATCHED,104.95,73.75,31.2,29.73,MARGIN OK,25,15,482,507,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1296,Pepper Mill Wooden Compact,Kitchen,MATCHED,33.76,20.37,13.39,39.66,MARGIN OK,100,15,419,519,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1297,Oven Mitts Pair - Charcoal,Kitchen,MATCHED,16.75,11.84,4.91,29.31,MARGIN OK,64,15,198,262,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1298,Atomic Habits - Hardcover Set of 2,Books,MATCHED,22.61,6.79,15.82,69.97,MARGIN OK,5,15,107,112,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1299,Citrus Juicer Manual Essential - Olive,Kitchen,MATCHED,21.21,8.65,12.56,59.22,MARGIN OK,23,15,2,25,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1300,Pastry Brush Set 30cm - Coral,Kitchen,MATCHED,13.66,9.24,4.42,32.36,MARGIN OK,1,15,66,67,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1301,OPI Nail Polish Performance,Beauty,MATCHED,8.66,10.6,-1.94,-22.4,CRITICAL Negative margin,0,15,42,42,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-1302,Adjustable Dumbbell 20kg - Teal,Sports,MATCHED,78.55,29.74,48.81,62.14,MARGIN OK,58,15,136,194,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1303,Nike Air Zoom Running Shoes 200g,Sports,MATCHED,117.49,57.52,59.97,51.04,MARGIN OK,52,15,398,450,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1304,Yoga Leggings Elite - Green,Clothing,MATCHED,58.83,41.05,17.78,30.22,MARGIN OK,11,15,423,434,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1305,Resistance Bands Set Set of 4 - Blue,Sports,MATCHED,22.23,9.73,12.5,56.23,MARGIN OK,64,15,447,511,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1306,Wilson Tennis Racket Ultra,Sports,MATCHED,90.56,28.14,62.42,68.93,MARGIN OK,50,15,405,455,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1307,Bamboo Bath Mat - Burgundy,Home,MATCHED,35.69,19.84,15.85,44.41,MARGIN OK,35,15,136,171,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1308,Gym Duffel Bag 40L 750ml,Sports,MATCHED,68.54,38.09,30.45,44.43,MARGIN OK,97,15,326,423,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1309,Giro Bicycle Helmet Ultra - Beige,Sports,MATCHED,73.95,44.64,29.31,39.63,MARGIN OK,45,15,365,410,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1310,The Ordinary Niacinamide Serum Small - Ivory,Beauty,MATCHED,13.18,5.92,7.26,55.08,MARGIN OK,17,15,158,175,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1311,Foam Roller Home,Sports,MATCHED,23.16,10.19,12.97,56.0,MARGIN OK,84,15,280,364,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1312,Kettlebell 16kg - Charcoal,Sports,MATCHED,56.39,36.82,19.57,34.7,MARGIN OK,55,15,173,228,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1313,Silk Blouse Set of 2,Clothing,MATCHED,70.1,52.36,17.74,25.31,MARGIN OK,4,15,340,344,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1314,Cycling Jersey Studio - Red,Sports,MATCHED,65.17,23.81,41.36,63.46,MARGIN OK,61,15,145,206,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1315,Hiking Backpack 30L X-Large - Rose,Sports,MATCHED,59.11,41.15,17.96,30.38,MARGIN OK,22,15,102,124,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1316,Sapiens: A Brief History of Humankind Signature,Books,MATCHED,17.5,8.61,8.89,50.8,MARGIN OK,1,15,254,255,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1317,Pull-Up Bar Doorway - Black,Sports,MATCHED,51.28,16.42,34.86,67.98,MARGIN OK,1,15,33,34,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1318,Balance Board Set of 2,Sports,MATCHED,43.01,29.67,13.34,31.02,MARGIN OK,2,15,409,411,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1319,Charlotte Tilbury Pillow Talk Lipstick Smart - White,Beauty,MATCHED,34.26,25.25,9.01,26.3,MARGIN OK,51,15,87,138,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1320,Trekking Poles Pair 200g - White,Sports,MATCHED,41.23,24.73,16.5,40.02,MARGIN OK,99,15,281,380,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1321,Exercise Ball 65cm Classic,Sports,MATCHED,27.75,11.1,16.65,60.0,MARGIN OK,56,15,424,480,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1322,Slim Fit Denim Jeans - Slate,Clothing,MATCHED,65.85,21.61,44.24,67.18,MARGIN OK,47,15,296,343,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1323,Sports Watch Digital One Size,Sports,MATCHED,33.73,24.77,8.96,26.56,MARGIN OK,8,15,205,213,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1324,Baseball Bat Aluminum Digital - Gray,Sports,MATCHED,52.39,29.14,23.25,44.38,MARGIN OK,79,15,418,497,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1325,NARS Radiant Creamy Concealer Pack of 3 - Red,Beauty,MATCHED,30.6,21.05,9.55,31.21,MARGIN OK,11,15,364,375,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1326,Kérastase Shampoo 250ml Home,Beauty,MATCHED,31.74,17.16,14.58,45.94,MARGIN OK,15,15,186,201,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1327,Moroccanoil Conditioner - Teal,Beauty,MATCHED,32.05,10.69,21.36,66.65,MARGIN OK,5,15,425,430,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1328,Insulated Water Bottle 750ml Set of 6,Sports,MATCHED,,18.12,,,N/A Missing price data,41,15,45,86,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1329,The Ordinary Niacinamide Serum Comfort - Burgundy,Beauty,MATCHED,14.89,7.71,7.18,48.22,MARGIN OK,59,15,480,539,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1330,Chanel No. 5 Eau de Parfum Pack of 5 - Ivory,Beauty,MATCHED,97.88,52.93,44.95,45.92,MARGIN OK,42,15,159,201,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1331,Kitchen Wall Shelf Performance,Home,MATCHED,45.82,28.21,17.61,38.43,MARGIN OK,51,15,106,157,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1332,Estée Lauder Double Wear Foundation - Taupe,Beauty,MATCHED,47.22,28.51,18.71,39.62,MARGIN OK,31,15,79,110,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1333,Garnier Sheet Mask Set Pack of 5,Beauty,MATCHED,19.06,13.05,6.01,31.53,MARGIN OK,97,15,268,365,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1334,LEGO Classic Creative Bricks Home - Cream,Toys,MATCHED,38.83,13.37,25.46,65.57,MARGIN OK,27,15,365,392,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1335,Dyson Supersonic Hair Dryer Set of 2 - Olive,Beauty,MATCHED,403.02,130.0,273.02,67.74,MARGIN OK,53,15,210,263,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1336,Clinique Take The Day Off Balm Max,Beauty,MATCHED,31.44,20.71,10.73,34.13,MARGIN OK,68,15,452,520,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1337,Google Nest Hub 2nd Gen - Olive,Electronics,MATCHED,94.41,48.4,46.01,48.73,MARGIN OK,18,15,196,214,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1338,Sunday Riley Good Genes Serum Pack of 5,Beauty,MATCHED,99.8,44.93,54.87,54.98,MARGIN OK,46,15,93,139,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1339,Benefit Cosmetics Hoola Bronzer Plus - Graphite,Beauty,MATCHED,30.49,17.97,12.52,41.06,MARGIN OK,59,15,207,266,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1340,LEGO Classic Creative Bricks Set of 6 - Beige,Toys,MATCHED,34.0,25.11,8.89,26.15,MARGIN OK,4,15,336,340,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1341,Olaplex No. 3 Treatment 2024 Edition,Beauty,MATCHED,31.43,19.05,12.38,39.39,MARGIN OK,67,15,44,111,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1342,Tatcha Dewy Skin Cream - Ivory,Beauty,MATCHED,71.52,22.86,48.66,68.04,MARGIN OK,19,15,77,96,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1343,Apple Lightning Cable 2m 400g,Electronics,MATCHED,19.7,11.73,7.97,40.46,MARGIN OK,9,15,329,338,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1344,Drunk Elephant C-Firma Day Serum Essential - Teal,Beauty,MATCHED,73.71,26.62,47.09,63.89,MARGIN OK,58,15,361,419,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1345,Kiehl's Midnight Recovery Concentrate X-Large - Slate,Beauty,MATCHED,54.34,32.47,21.87,40.25,MARGIN OK,37,15,154,191,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1346,Dyson Supersonic Hair Dryer Analog,Beauty,MATCHED,428.99,191.19,237.8,55.43,MARGIN OK,21,15,215,236,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1347,Urban Decay Naked Eyeshadow Palette - Blue,Beauty,MATCHED,51.79,31.99,19.8,38.23,MARGIN OK,14,15,145,159,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1348,Aesop Resurrection Hand Balm Pack of 3,Beauty,MATCHED,31.44,15.25,16.19,51.49,MARGIN OK,95,15,94,189,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1349,Moroccanoil Conditioner XL - Red,Beauty,MATCHED,28.56,15.42,13.14,46.01,MARGIN OK,31,15,432,463,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1350,Jo Malone London Candle Set of 4 - Burgundy,Beauty,MATCHED,70.22,41.95,28.27,40.26,MARGIN OK,37,15,281,318,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1351,The Great Gatsby - Paperback Mini,Books,MATCHED,13.25,5.45,7.8,58.87,MARGIN OK,85,15,437,522,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1352,Salad Spinner - Coral,Kitchen,MATCHED,22.28,15.96,6.32,28.37,MARGIN OK,41,15,455,496,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1353,Introduction to Algorithms - Hardcover Large,Books,MATCHED,88.74,49.8,38.94,43.88,MARGIN OK,84,15,363,447,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1354,Becoming by Michelle Obama Plus - Navy,Books,MATCHED,18.53,6.76,11.77,63.52,MARGIN OK,92,15,388,480,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1355,La Roche-Posay Moisturizer Large - Blue,Beauty,MATCHED,29.96,17.03,12.93,43.16,MARGIN OK,85,15,339,424,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1356,Leuchtturm1917 Bullet Journal Ultra,Books,MATCHED,23.61,13.46,10.15,42.99,MARGIN OK,43,15,232,275,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1357,Oxford English Dictionary - White,Books,MATCHED,33.1,23.49,9.61,29.03,MARGIN OK,32,15,126,158,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1358,National Geographic Atlas Large,Books,MATCHED,44.14,25.69,18.45,41.8,MARGIN OK,20,15,423,443,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1359,Milk and Honey Poetry Collection Analog - Green,Books,MATCHED,16.97,9.3,7.67,45.2,MARGIN OK,50,15,15,65,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1360,Gone Girl - Thriller Set of 2 - Burgundy,Books,MATCHED,15.96,7.59,8.37,52.44,MARGIN OK,74,15,413,487,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1361,Kiehl's Midnight Recovery Concentrate Premium,Beauty,MATCHED,49.51,31.63,17.88,36.11,MARGIN OK,84,15,191,275,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1362,Atomic Habits - Hardcover - Beige,Books,MATCHED,21.19,12.53,8.66,40.87,MARGIN OK,51,15,145,196,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1363,The Alchemist - Paperback Pack of 5,Books,MATCHED,15.76,10.68,5.08,32.23,MARGIN OK,78,15,390,468,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1364,Woven Laundry Basket Analog - Red,Home,MATCHED,28.16,15.58,12.58,44.67,MARGIN OK,68,15,300,368,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1365,Steve Jobs Biography Pack of 3 - Navy,Books,MATCHED,23.44,13.91,9.53,40.66,MARGIN OK,1,15,497,498,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1366,To Kill a Mockingbird Eco,Books,MATCHED,13.83,6.82,7.01,50.69,MARGIN OK,36,15,86,122,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1367,MAC Matte Lipstick - Teal,Beauty,MATCHED,25.15,7.99,17.16,68.23,MARGIN OK,18,15,26,44,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1368,The Hobbit - Illustrated Pack of 3,Books,MATCHED,28.5,16.06,12.44,43.65,MARGIN OK,2,15,251,253,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1369,Pride and Prejudice Advanced - Coral,Books,MATCHED,10.6,7.37,3.23,30.47,MARGIN OK,4,15,386,390,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1370,Funko Pop! Vinyl Figure 750ml - Cream,Toys,MATCHED,14.48,7.47,7.01,48.41,MARGIN OK,91,15,90,181,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1371,"Thinking, Fast and Slow Plus",Books,MATCHED,17.12,12.1,5.02,29.32,MARGIN OK,67,15,500,567,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1372,The Subtle Art of Not Giving a F*ck - Lavender,Books,MATCHED,16.83,10.03,6.8,40.4,MARGIN OK,52,15,37,89,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1373,Apple AirPods Pro 2 32cm,Electronics,MATCHED,249.0,100.64,148.36,59.58,MARGIN OK,11,15,196,207,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1374,The Four Agreements Elite - Gray,Books,MATCHED,12.58,9.33,3.25,25.83,MARGIN OK,91,15,259,350,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1375,Dune - Frank Herbert Pack of 5 - Beige,Books,MATCHED,19.32,11.7,7.62,39.44,MARGIN OK,99,15,50,149,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1376,Chino Shorts Premium,Clothing,MATCHED,37.75,24.3,13.45,35.63,MARGIN OK,89,15,249,338,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1377,Catan Board Game - Slate,Toys,MATCHED,40.62,29.24,11.38,28.02,MARGIN OK,37,15,387,424,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1378,Barbie Fashionistas Doll X-Large,Toys,MATCHED,23.82,9.63,14.19,59.57,MARGIN OK,91,15,321,412,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1379,Fitbit Charge 6 Pro - Ivory,Electronics,MATCHED,142.61,93.85,48.76,34.19,MARGIN OK,89,15,254,343,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1380,LEGO Classic Creative Bricks 200g - Blue,Toys,MATCHED,,16.56,,,N/A Missing price data,65,15,480,545,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1381,Jellycat Bashful Bunny Plush Max,Toys,MATCHED,26.74,15.3,11.44,42.78,MARGIN OK,52,15,432,484,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1382,Swim Goggles Anti-Fog - Teal,Sports,MATCHED,17.03,8.3,8.73,51.26,MARGIN OK,3,15,462,465,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1383,Crayola Ultimate Art Set One Size,Toys,MATCHED,31.26,22.01,9.25,29.59,MARGIN OK,43,15,332,375,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1384,National Geographic Science Kit Travel - Burgundy,Toys,MATCHED,48.25,35.54,12.71,26.34,MARGIN OK,18,15,172,190,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1385,Waterproof Winter Jacket Medium - Slate,Clothing,MATCHED,147.54,89.15,58.39,39.58,MARGIN OK,100,15,90,190,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1386,Hot Wheels 20-Car Gift Pack Lite,Toys,MATCHED,25.54,10.37,15.17,59.4,MARGIN OK,66,15,373,439,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1387,Play-Doh 36-Can Mega Pack - Ivory,Toys,MATCHED,26.21,16.27,9.94,37.92,MARGIN OK,68,15,27,95,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1388,Samsung 1TB Portable SSD Medium,Electronics,MATCHED,96.36,58.86,37.5,38.92,MARGIN OK,100,15,364,464,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1389,Nerf Elite Disruptor Blaster Mini - Cream,Unknown,MATCHED,23.09,14.97,8.12,35.17,MARGIN OK,87,15,188,275,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1390,Melissa & Doug Wooden Train Set 400g - Cream,Toys,MATCHED,59.87,43.11,16.76,27.99,MARGIN OK,53,15,71,124,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1391,Woven Laundry Basket Studio,Home,MATCHED,44.37,16.25,28.12,63.38,MARGIN OK,65,15,332,397,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1392,Rubik's Cube 3x3 - Red,Toys,MATCHED,15.61,6.12,9.49,60.79,MARGIN OK,85,15,351,436,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1393,LEGO Star Wars X-Wing Set of 6,Toys,MATCHED,57.05,27.37,29.68,52.02,MARGIN OK,77,15,414,491,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1394,Hot Wheels 20-Car Gift Pack Mini - Taupe,Toys,MATCHED,28.69,10.92,17.77,61.94,MARGIN OK,0,15,285,285,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-1395,Playmobil Pirate Ship 2L - Green,Toys,MATCHED,63.36,44.12,19.24,30.37,MARGIN OK,89,15,260,349,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1396,Jenga Classic Game Mini,Toys,MATCHED,18.99,13.84,5.15,27.12,MARGIN OK,16,15,93,109,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1397,"Thinking, Fast and Slow - Charcoal",Books,MATCHED,19.01,12.31,6.7,35.24,MARGIN OK,71,15,248,319,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1398,Magna-Tiles 32-Piece Set Set of 2,Toys,MATCHED,56.81,29.83,26.98,47.49,MARGIN OK,58,15,2,60,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1399,Schleich Horse Stable Playset 2024 Edition - Graphite,Toys,MATCHED,67.97,78.81,-10.84,-15.95,CRITICAL Negative margin,77,15,141,218,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1400,Balance Board Small - Red,Sports,MATCHED,43.66,19.98,23.68,54.24,MARGIN OK,78,15,346,424,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1401,Apple iPhone 15 Compact,Electronics,MATCHED,861.58,279.44,582.14,67.57,MARGIN OK,100,15,224,324,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1402,Samsung Galaxy S24 - Gray,Electronics,MATCHED,957.94,290.22,667.72,69.7,MARGIN OK,35,15,218,253,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1403,Premium Yoga Mat 6mm Set of 4,Sports,MATCHED,31.05,19.75,11.3,36.39,MARGIN OK,51,15,450,501,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1404,Logitech MX Master 3S Mouse Premium - Lavender,Electronics,MATCHED,96.84,49.64,47.2,48.74,MARGIN OK,4,15,163,167,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1405,Keychron K2 Mechanical Keyboard Small - Slate,Electronics,MATCHED,92.74,29.8,62.94,67.87,MARGIN OK,66,15,219,285,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1406,Introduction to Algorithms - Hardcover Elite,Books,MATCHED,87.41,60.24,27.17,31.08,MARGIN OK,12,15,356,368,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1407,Apple iPad Air - Graphite,Electronics,MATCHED,659.44,206.85,452.59,68.63,MARGIN OK,73,15,167,240,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1408,Garmin Forerunner 265 Smartwatch 750ml,Electronics,MATCHED,389.54,194.59,194.95,50.05,MARGIN OK,69,15,7,76,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1409,Gone Girl - Thriller Smart - Rose,Books,MATCHED,14.95,5.69,9.26,61.94,MARGIN OK,71,15,0,71,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1410,Apple Lightning Cable 2m Pack of 3 - Olive,Electronics,MATCHED,24.49,18.06,6.43,26.26,MARGIN OK,19,15,0,19,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1411,JBL Flip 6 Bluetooth Speaker Max,Electronics,MATCHED,135.57,60.21,75.36,55.59,MARGIN OK,87,15,122,209,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1412,Stainless Steel Stock Pot - Black,Kitchen,MATCHED,71.57,52.73,18.84,26.32,MARGIN OK,24,15,280,304,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1413,Samsung 1TB Portable SSD X-Large,Electronics,MATCHED,93.57,57.33,36.24,38.73,MARGIN OK,25,15,471,496,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1414,Amazon Echo Dot 5th Gen Analog - Rose,Electronics,MATCHED,54.49,30.13,24.36,44.71,MARGIN OK,10,15,373,383,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1415,Melissa & Doug Wooden Train Set 32cm - Cream,Toys,MATCHED,54.38,35.12,19.26,35.42,MARGIN OK,78,15,301,379,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1416,Raspberry Pi 5 8GB Analog,Electronics,MATCHED,80.94,49.6,31.34,38.72,MARGIN OK,35,15,340,375,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1417,Arduino Uno R4 WiFi - Black,Electronics,MATCHED,27.01,10.94,16.07,59.5,MARGIN OK,74,15,94,168,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1418,Fisher-Price Rock-a-Stack Medium,Toys,MATCHED,15.94,5.88,10.06,63.11,MARGIN OK,95,15,229,324,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1419,TP-Link Archer AX3000 Router XL - Cream,Electronics,MATCHED,134.66,52.66,82.0,60.89,MARGIN OK,38,15,346,384,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1420,Philips Hue White Bulb One Size - Beige,Electronics,MATCHED,15.81,10.74,5.07,32.07,MARGIN OK,36,15,219,255,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1421,Garnier Sheet Mask Set Pro,Beauty,MATCHED,15.67,9.32,6.35,40.52,MARGIN OK,51,15,7,58,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1422,Bose QuietComfort Earbuds II - Lavender,Electronics,MATCHED,282.27,128.91,153.36,54.33,MARGIN OK,63,15,332,395,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1423,Nintendo Switch OLED Small,Electronics,MATCHED,349.0,250.62,98.38,28.19,MARGIN OK,40,15,137,177,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1424,The Very Hungry Caterpillar XL - Red,Books,MATCHED,13.06,9.58,3.48,26.65,MARGIN OK,81,15,182,263,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1425,Apple AirPods Pro 2 One Size - Rose,Electronics,MATCHED,249.0,135.7,113.3,45.5,MARGIN OK,7,15,345,352,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1426,Cotton Crew Neck T-Shirt Signature,Clothing,MATCHED,15.81,5.49,10.32,65.28,MARGIN OK,44,15,105,149,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1427,Melissa & Doug Wooden Train Set - Taupe,Toys,MATCHED,53.03,34.88,18.15,34.23,MARGIN OK,9,15,60,69,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1428,Waterproof Winter Jacket Pack of 3,Clothing,MATCHED,94.01,51.83,42.18,44.87,MARGIN OK,46,15,500,546,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1429,Floral Summer Dress Standard - White,Clothing,MATCHED,43.94,23.41,20.53,46.72,MARGIN OK,57,15,307,364,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1430,Becoming by Michelle Obama Small - Gray,Books,MATCHED,18.12,9.4,8.72,48.12,MARGIN OK,43,15,215,258,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1431,Leather Ankle Boots Standard,Clothing,MATCHED,145.52,69.83,75.69,52.01,MARGIN OK,19,15,255,274,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1432,Cotton Athletic Socks 6-Pack - Black,Clothing,MATCHED,16.71,5.5,11.21,67.09,MARGIN OK,0,15,96,96,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-1433,Sapiens: A Brief History of Humankind Large,Books,MATCHED,19.22,7.35,11.87,61.76,MARGIN OK,98,15,117,215,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1434,Cashmere Scarf Essential - Teal,Clothing,MATCHED,43.69,19.58,24.11,55.18,MARGIN OK,5,15,212,217,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1435,Genuine Leather Belt Pack of 5 - Navy,Clothing,MATCHED,44.62,28.19,16.43,36.82,MARGIN OK,25,15,59,84,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1436,Non-Stick Frying Pan 28cm Essential,Kitchen,MATCHED,36.77,17.58,19.19,52.19,MARGIN OK,39,15,183,222,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1437,Chino Shorts - Teal,Clothing,MATCHED,32.59,17.25,15.34,47.07,MARGIN OK,29,15,192,221,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1438,Running Sneakers X-Large,Clothing,MATCHED,76.58,26.51,50.07,65.38,MARGIN OK,3,15,131,134,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1439,"Salt, Fat, Acid, Heat - Cookbook Essential - Olive",Books,MATCHED,34.06,11.59,22.47,65.97,MARGIN OK,64,15,61,125,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1440,Silk Blouse 750ml - Taupe,Clothing,MATCHED,54.27,25.27,29.0,53.44,MARGIN OK,52,15,97,149,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1441,Cargo Pants Plus,Clothing,MATCHED,46.02,15.51,30.51,66.3,MARGIN OK,37,15,33,70,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1442,Fleece Throw Blanket - Slate,Home,MATCHED,52.1,25.53,26.57,51.0,MARGIN OK,60,15,330,390,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1443,Pleated Midi Skirt Set of 6,Clothing,MATCHED,44.89,26.69,18.2,40.54,MARGIN OK,54,15,229,283,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1444,Blazer Jacket Analog - Beige,Clothing,MATCHED,124.26,89.23,35.03,28.19,MARGIN OK,81,15,223,304,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1445,Shoe Storage Cabinet Small - Ivory,Home,MATCHED,78.38,57.0,21.38,27.28,MARGIN OK,39,15,365,404,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1446,Swim Trunks Home,Clothing,MATCHED,32.86,10.46,22.4,68.17,MARGIN OK,10,15,26,36,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1447,Ballet Flats - Olive,Clothing,MATCHED,43.2,14.79,28.41,65.76,MARGIN OK,23,15,153,176,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1448,Kettlebell 16kg Small,Sports,MATCHED,54.04,39.23,14.81,27.41,MARGIN OK,76,15,201,277,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1449,Yoga Leggings Standard - Green,Clothing,MATCHED,33.73,15.83,17.9,53.07,MARGIN OK,37,15,432,469,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1450,Polo Shirt 30cm - Blue,Clothing,MATCHED,36.73,23.11,13.62,37.08,MARGIN OK,91,15,188,279,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1451,Rich Dad Poor Dad Plus,Books,MATCHED,16.87,7.71,9.16,54.3,MARGIN OK,50,15,170,220,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1452,Fleece Throw Blanket - Coral,Home,MATCHED,51.03,29.22,21.81,42.74,MARGIN OK,61,15,61,122,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1453,Modern Table Lamp 750ml,Home,MATCHED,49.81,15.55,34.26,68.78,MARGIN OK,42,15,200,242,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1454,Nintendo Switch OLED Premium - Slate,Electronics,MATCHED,349.0,183.24,165.76,47.5,MARGIN OK,61,15,16,77,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1455,Blackout Curtains Pair 200g - Coral,Home,MATCHED,60.41,40.56,19.85,32.86,MARGIN OK,83,15,411,494,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1456,Ceramic Decorative Vase Digital,Home,MATCHED,53.12,22.8,30.32,57.08,MARGIN OK,72,15,359,431,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1457,The Hobbit - Illustrated - Rose,Books,MATCHED,25.95,11.14,14.81,57.07,MARGIN OK,55,15,163,218,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1458,Round Wall Mirror 60cm 1L,Home,MATCHED,77.84,44.54,33.3,42.78,MARGIN OK,70,15,184,254,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1459,Scented Soy Candle Lite - Lavender,Home,MATCHED,12.79,6.04,6.75,52.78,MARGIN OK,56,15,386,442,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1460,Aromatherapy Diffuser Set of 2 - Beige,Home,MATCHED,29.51,20.35,9.16,31.04,MARGIN OK,95,15,315,410,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1461,Weighted Blanket 7kg Compact,Home,MATCHED,106.3,54.42,51.88,48.81,MARGIN OK,50,15,79,129,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1462,Velvet Cushion Cover - Taupe,Home,MATCHED,23.51,9.25,14.26,60.66,MARGIN OK,72,15,123,195,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1463,The Great Gatsby - Paperback Set of 2,Books,MATCHED,15.79,9.79,6.0,38.0,MARGIN OK,94,15,285,379,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1464,Digital Alarm Clock Essential - Teal,Home,MATCHED,20.32,8.12,12.2,60.04,MARGIN OK,97,15,159,256,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1465,Glass Photo Frame 20x25 200g - Red,Home,MATCHED,18.34,13.02,5.32,29.01,MARGIN OK,79,15,83,162,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1466,Decorative Throw Pillow Essential,Home,MATCHED,19.54,7.59,11.95,61.16,MARGIN OK,82,15,246,328,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1467,Wooden Coat Rack - Gray,Home,MATCHED,62.36,40.85,21.51,34.49,MARGIN OK,24,15,243,267,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1468,LED Strip Lights 5m Set of 2,Home,MATCHED,19.4,11.29,8.11,41.8,MARGIN OK,9,15,237,246,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1469,Apple AirPods Pro 2 Essential - Slate,Electronics,MATCHED,249.0,165.18,83.82,33.66,MARGIN OK,75,15,138,213,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1470,Microfiber Duvet Cover 500ml - Ivory,Home,MATCHED,58.37,28.97,29.4,50.37,MARGIN OK,53,15,467,520,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1471,Kitchen Wall Shelf Elite,Home,MATCHED,44.48,19.22,25.26,56.79,MARGIN OK,16,15,333,349,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1472,The Hobbit - Illustrated - Navy,Books,MATCHED,26.31,12.55,13.76,52.3,MARGIN OK,92,15,238,330,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1473,Bamboo Bath Mat Set of 6,Home,MATCHED,34.4,25.54,8.86,25.76,MARGIN OK,7,15,464,471,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1474,Aromatherapy Diffuser XL - Taupe,Home,MATCHED,40.18,27.81,12.37,30.79,MARGIN OK,0,15,432,432,CRITICAL Internal stockout - reorder available from Supplier,Fulfill via dropship
+SKU-1475,Floral Summer Dress Set of 4 - White,Clothing,MATCHED,45.98,20.46,25.52,55.5,MARGIN OK,100,15,289,389,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1476,Non-Stick Frying Pan 28cm Lite,Kitchen,MATCHED,50.01,27.69,22.32,44.63,MARGIN OK,85,15,271,356,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1477,Stainless Steel Stock Pot - Coral,Kitchen,MATCHED,71.19,25.5,45.69,64.18,MARGIN OK,45,15,396,441,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1478,LEGO Star Wars X-Wing Medium,Toys,MATCHED,56.06,18.27,37.79,67.41,MARGIN OK,38,15,0,38,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1479,Bamboo Cutting Board XL - Beige,Kitchen,MATCHED,19.43,9.47,9.96,51.26,MARGIN OK,66,15,260,326,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1480,Ninja Professional Blender Pack of 5 - Olive,Kitchen,MATCHED,120.69,60.33,60.36,50.01,MARGIN OK,65,15,312,377,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1481,Rubik's Cube 3x3 2024 Edition,Toys,MATCHED,14.66,6.63,8.03,54.77,MARGIN OK,66,15,120,186,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1482,Breville Barista Express - Teal,Kitchen,MATCHED,462.91,264.08,198.83,42.95,MARGIN OK,84,15,89,173,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1483,Porcelain Dinner Plate Set 750ml,Kitchen,MATCHED,56.86,40.3,16.56,29.12,MARGIN OK,53,15,121,174,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1484,Laura Mercier Translucent Powder Travel - Coral,Beauty,MATCHED,39.25,27.81,11.44,29.15,MARGIN OK,33,15,213,246,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1485,Silicone Spatula Set Set of 6 - Red,Kitchen,MATCHED,11.33,7.83,3.5,30.89,MARGIN OK,41,15,500,541,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1486,Cast Iron Dutch Oven Max,Kitchen,MATCHED,139.4,47.02,92.38,66.27,MARGIN OK,61,15,197,258,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1487,Salad Spinner - Red,Kitchen,MATCHED,16.8,9.18,7.62,45.36,MARGIN OK,32,15,188,220,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1488,Electric Kettle 1.7L 1L,Kitchen,MATCHED,44.59,22.72,21.87,49.05,MARGIN OK,5,15,323,328,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1489,Pasta Maker Machine Plus - Burgundy,Kitchen,MATCHED,84.95,61.32,23.63,27.82,MARGIN OK,67,15,86,153,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1490,Nike Air Zoom Running Shoes Set of 4 - Lavender,Sports,MATCHED,141.8,64.51,77.29,54.51,MARGIN OK,64,15,301,365,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1491,Salad Spinner Digital,Kitchen,MATCHED,24.52,8.77,15.75,64.23,MARGIN OK,60,15,493,553,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1492,Meat Thermometer Digital - Slate,Kitchen,MATCHED,25.16,18.5,6.66,26.47,MARGIN OK,97,15,155,252,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1493,Aesop Resurrection Hand Balm 2L,Beauty,MATCHED,27.16,13.23,13.93,51.29,MARGIN OK,36,15,82,118,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1494,Air Fryer 5.5L Standard - Ivory,Kitchen,MATCHED,110.27,55.62,54.65,49.56,MARGIN OK,32,15,315,347,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1495,Rice Cooker 1.8L One Size - Lavender,Kitchen,MATCHED,49.81,20.14,29.67,59.57,MARGIN OK,2,15,418,420,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1496,Steve Jobs Biography Eco,Books,MATCHED,19.48,7.56,11.92,61.19,MARGIN OK,68,15,97,165,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1497,Oven Mitts Pair - Rose,Kitchen,MATCHED,17.36,9.8,7.56,43.55,MARGIN OK,15,15,25,40,WARNING Below reorder point - reorder available from Supplier,Fulfill in-house
+SKU-1498,Colander Stainless Steel 28cm,Kitchen,MATCHED,20.97,13.37,7.6,36.24,MARGIN OK,42,15,158,200,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1499,Weighted Blanket 7kg Advanced - Graphite,Home,MATCHED,91.16,65.48,25.68,28.17,MARGIN OK,31,15,393,424,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house
+SKU-1500,Pastry Brush Set Pack of 3 - Red,Kitchen,MATCHED,14.69,6.15,8.54,58.13,MARGIN OK,38,15,229,267,HEALTHY AVAILABILITY Internal available stock,Fulfill in-house

@@ -1,0 +1,16 @@
+sku,wholesale_cost,supplier_stock,anomaly_description
+SKU-9991,25.48,29,SKU in supplier NOT in internal inventory
+SKU-9992,92.67,191,SKU in supplier NOT in internal inventory
+SKU-9993,49.53,200,SKU in supplier NOT in internal inventory
+SKU-9994,24.97,32,SKU in supplier NOT in internal inventory
+SKU-9995,101.87,128,SKU in supplier NOT in internal inventory
+Sku-1124,41.03,184,casing mismatch in SKU
+sKu-1150,27.96,488,casing mismatch in SKU
+sKu-1410,18.06,0,casing mismatch in SKU
+sKu-1422,128.91,332,casing mismatch in SKU
+sku-1059,11.38,261,casing mismatch in SKU
+sku-1099,13.78,124,casing mismatch in SKU
+sku-1102,52.73,41,casing mismatch in SKU
+sku-1130,163.71,92,casing mismatch in SKU
+sku-1167,5.94,213,casing mismatch in SKU
+sku-1482,264.08,89,casing mismatch in SKU
